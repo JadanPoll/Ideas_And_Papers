@@ -237,7 +237,30 @@ A **damped continuant** — genuinely converges to 0 while flipping sign at ever
 
 ---
 
-## 15. Open questions — a problem set for future rigor
+## 15. Quasiparticles, entanglement, and decoherence as tree-gauge collapse
+
+**The proposal**: build a quasiparticle from Pauli-matrix-like unitary sections `M_1, M_2` that are "allowed to evolve," entangled with each other, where `det(M_1 · M_2)` is only computed — and the state only collapses — at the moment of decoherence/measurement.
+
+**A necessary correction first.** If `M_1, M_2 ∈ SU(2)` (Pauli-generated rotations in the usual sense), `det` is identically `1` forever — this is exactly the isospectral case of §3, already frozen from the start. For `det` to carry any information at all, the internal structure must live in `U(2)`, not `SU(2)`, so an overall phase is tracked.
+
+**But an isolated overall phase is exactly the wrong place to look for collapse.** A single subsystem's global phase never affects Born-rule outcomes on its own — it is invisible by construction. The physics is not "det computed in isolation," but:
+
+- **Entanglement turns global phase into relative phase.** Once `M_1` and `M_2`'s evolution is correlated with another part of a joint system, an otherwise-invisible determinant/phase becomes a genuine relative phase between branches of the joint state — exactly **phase kickback**: a controlled-`U` leaves an ancilla's own value looking untouched while kicking the phase of `U` into an observable relative phase across its superposition.
+- **Decoherence is what freezes that relative phase into a classical read-out**, not the computation of a determinant per se. Tracing out an environment that has become entangled with the system (Zurek's **einselection**) is the real mechanism converting live relative-phase information into definite, classical statistics.
+
+**In the document's own vocabulary**: `M_ij` should be `U(2)`-valued; while coherent, its evolving determinant is an inert phase; entangling two such sections creates a genuine **loop holonomy** (§5) across the network; and decoherence is the act of collapsing to a **tree gauge** (§8b) — fixing every non-measured edge to `I` and freezing the one remaining chord's holonomy into a single classical number. Measurement, in this language, is nothing but a forced choice of gauge.
+
+**Where this already exists as real physics, closing a loop back to §12**:
+
+- **Topological quantum computation with non-abelian anyons.** Quasiparticles are manipulated by **braiding** worldlines — a sequence of unitary operations, topologically protected from local noise, matching "allowed to evolve" — and read out only by **fusion**, the single point where anything collapses. Between braids there is no well-defined local state; the information lives entirely in the entangled, global structure.
+- **Majorana zero modes.** Two Majoranas together form one ordinary fermion; individually, neither carries a local quantum number, only a shared, topologically protected parity — a physical quasiparticle with no well-defined local state on its own, exactly the proposal's structure.
+- **The Pfaffian, again.** The invariant determining whether a physical system supports Majorana modes at all is the **sign of a Pfaffian** — the Read–Green / Kitaev ℤ₂ invariant. This is the same object introduced in §12 as "one recursive layer beneath the determinant, with its own sign flip" — here it turns out to be the load-bearing quantity behind a real, physically realized quasiparticle of exactly this collapse-only-at-fusion kind.
+
+This section is presented as a genuinely promising extension, not yet a worked theorem — see the added item in §16.
+
+---
+
+## 16. Open questions — a problem set for future rigor
 
 1. Formalize the Ω-accumulator as an actual mathematical object (a pair: log-magnitude drift, phase winding), with a precise reset/composition law across both §8a and §8b type resets.
 2. Work out the intertwiner extension for dimension-mismatched fusion (§4) properly, using representation theory as the model.
@@ -246,9 +269,10 @@ A **damped continuant** — genuinely converges to 0 while flipping sign at ever
 5. Make the connection between the tree-gauge d.o.f. count (§8b) and standard graph/topological invariants (cycle rank, first Betti number) fully rigorous, and check whether it generalizes cleanly to weighted or directed graphs.
 6. Work out the exceptional Jordan algebra extension (§4) as an explicit, fully worked non-associative RDM variant.
 7. Determine whether the marginal regime's center-manifold slaving (§11) and the pole regime's monopole sourcing (§7) can be unified into a single bifurcation-theoretic picture of the whole taxonomy.
+8. Work out the anyon/tree-gauge correspondence of §15 rigorously: does the number of independent fusion outcomes in a real anyon model match the chord/cycle count of §8b's degrees-of-freedom theorem, for some natural choice of underlying network?
 
 ---
 
-## 16. Closing note
+## 17. Closing note
 
-This document is a snapshot of an intuition, followed rigorously enough to discover that it independently reconstructs recognizable fragments of quasideterminant theory, Lie group representation theory, gauge-theoretic holonomy, dynamical systems' Lyapunov machinery, semiclassical quantum mechanics, and continued fraction theory — without having set out to do any of that. Nothing here constitutes a new theorem; every named result cited is a real, existing piece of mathematics or physics. What is original is the specific act of noticing that all of it fits under one small notation, and the resulting taxonomy and problem set. Whether the notation "earns its keep" — produces a genuinely new result, rather than just a genuinely good index into old ones — is exactly §15, problem 4, and is left open.
+This document is a snapshot of an intuition, followed rigorously enough to discover that it independently reconstructs recognizable fragments of quasideterminant theory, Lie group representation theory, gauge-theoretic holonomy, dynamical systems' Lyapunov machinery, semiclassical quantum mechanics, continued fraction theory, and — most recently — the structure of topological quantum computation, without having set out to do any of that. Nothing here constitutes a new theorem; every named result cited is a real, existing piece of mathematics or physics. What is original is the specific act of noticing that all of it fits under one small notation, and the resulting taxonomy and problem set. Whether the notation "earns its keep" — produces a genuinely new result, rather than just a genuinely good index into old ones — is exactly §16, problem 4, and is left open.
