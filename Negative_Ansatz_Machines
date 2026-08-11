@@ -46,6 +46,7 @@ might be potentially valuable(or can we even think up or do this in a way that i
 in their calculations and building a library of that and letting them deduce whence they made a power of 10 error etc, the good question is how can ths actually be useful,
 it is certainly a very rich error landscape or negative/graveyard space with very deep shapes, like power of 10 errors in final answer, unreasonable looking fraction errors in final answer,
 too many solutions in final answer, and being able to deduce whence the error was made.
+Red team for counterfactual error ansatz
 
 
 Ansatz Libraries
