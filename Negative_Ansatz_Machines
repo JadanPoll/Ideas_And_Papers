@@ -47,7 +47,12 @@ in their calculations and building a library of that and letting them deduce whe
 it is certainly a very rich error landscape or negative/graveyard space with very deep shapes, like power of 10 errors in final answer, unreasonable looking fraction errors in final answer,
 too many solutions in final answer, and being able to deduce whence the error was made.
 Red team for counterfactual error ansatz
-
+i just had an idea that might significant boost the quality of even 
+"knowing what kind of errors to introduce" of this whole thing. 
+Red team for counterfactual error ansatz, a team that specifically tries to
+introduce an error in a way that the poor soul cant tell where the error got introduced or where its
+deduction is wrong. this would be excellent for cases where(especially when the library matures) 
+one might have excellent intution but might subtly be wrong somewhere in deduction
 
 Ansatz Libraries
 Mathematics before language
