@@ -39,7 +39,8 @@ we love the false! we want to map out there error landscape to distunction presu
 Asymmetric Niching of AI due to its overwhelming computational power to actually be orthogonal to humans, a genuine complement, not a parallel complement that will obviously favour them
 
 
-Building Enrico-Fermi like Ansatz by intensionally mutating or introducing errors in its calculations and deductions and using that to 
+Building Enrico-Fermi like Ansatz by intensionally mutating or introducing errors(like intentionally introdducing a symbolic manipulation error)
+in its calculations and deductions and using that to 
 feed the ansatz more richly about estimating and uncovering where in its deduction the error is. These are things humans would never consider to build their intuition but
 might be potentially valuable(or can we even think up or do this in a way that its valuable) because its completely orthogonal to the way humans work, intentionally introducing errors
 in their calculations and building a library of that and letting them deduce whence they made a power of 10 error etc, the good question is how can ths actually be useful,
