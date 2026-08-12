@@ -19,6 +19,8 @@ Instead of building LLMs from the enormities of the English language, we build i
 
 I beleive red team questions are necessary, qustions about the questions to push the response to the limit but i fear at this point I have no idea of a clean way to do it, same with the questions by grade as the relevance and how one would respond to the question should itself be changed by grade
 
+
+
 ## Questions
 
 This is the very first question I deem necessaryL
@@ -58,7 +60,7 @@ Why would agents call such behaviour pscopathic or not encourage this? Intention
 Good question
 
 
-
+Why must intelligence care for some sensibilites like music?
 
 
 
