@@ -13,7 +13,7 @@ In fact this should have been a database.
 
 The hidden purpose of this book is to motivate the minimal architecture necessary for Turing's child machines as intelligence increasing in complexity, there will be a companion book to this which answers some harder questions as well
 as argues the minimal architecture necessary to answer certain complexities of questions in the first place. In that other book, I would seperate the minimal architecture necessary from notions or ideas of how to implement that architecture to
-keep that book as pure as possible
+keep that book as pure as possible as well as document my experiences and insights and conversations on building out that architecture
 
 
 
