@@ -6,13 +6,15 @@ This is the complement to the book of Dumb and Necessary Questions and approache
 
 
 # The XYZ Architecture
-
+The XYZ Architecture was meant to be established as a model from first principles. During this project, we seek to establish clearly our thinking of what the model should be and our intuition behind it and actively
+refuse being locked into the trap of how to actually implement such as notions of neural networks or establishment of probabilites etc. This prevents intuitive reasoning and ordered thinking about
+what the intelligence necessarily needs and instead heavily copies inspiration from biological neuroscience which to be sure is but one way of going about the implementation.
 
 # The Z-Space
 The world models. The solid foundation from which its sensibilites about the world is based on
 
 # The Y-Space
-
+Inspired by Galois groups, sets, elements, operators, operators on operators and K-Towers to the top. More on K-Towers as I seek to write up my extensions on the notions of game theory.
 
 # The X-Space
 I guess this is the consciousness or orchestrator.
