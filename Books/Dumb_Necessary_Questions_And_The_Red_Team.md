@@ -19,7 +19,18 @@ Instead of building LLMs from the enormities of the English language, we build i
 
 I beleive red team questions are necessary, qustions about the questions to push the response to the limit but i fear at this point I have no idea of a clean way to do it, same with the questions by grade as the relevance and how one would respond to the question should itself be changed by grade
 
+## Forward Facing
+I expect this will be a community effort eventually. To that end i shall document what my initial vision for the community is. Of course, like many endeavors and idealisms, its apt to be short sighted and not capture the full dynamic range of 
+what that community might involve into.
+Initially this would serve to be a website so one can easily add questions to it
 
+
+Question-Answer paids
+
+Grade levels: 1-2 / 3-4 / 5-6 / 7-8 / 9-10 / 11-12 / Undergraduate / Graduat
+Intended community as can be forseen by me is middle schoolers and high schoolers 
+who have much intrinsic genuine curiosity about the world without artificial or "motivated"
+suppositions as well as much free time
 
 ## Questions
 
