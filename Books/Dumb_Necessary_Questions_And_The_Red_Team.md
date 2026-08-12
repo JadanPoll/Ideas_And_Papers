@@ -15,8 +15,7 @@ The hidden purpose of this book is to motivate the minimal architecture necessar
 as argues the minimal architecture necessary to answer certain complexities of questions in the first place. In that other book, I would seperate the minimal architecture necessary from notions or ideas of how to implement that architecture to
 keep that book as pure as possible as well as document my experiences and insights and conversations on building out that architecture
 
-
-
+I beleive red team questions are necessary, qustions about the questions to push the response to the limit but i fear at this point I have no idea of a clean way to do it, same with the questions by grade as the relevance and how one would respond to the question should itself be changed by grade
 
 ## Questions
 
