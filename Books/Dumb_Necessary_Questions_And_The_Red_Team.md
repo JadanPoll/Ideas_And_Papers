@@ -4,10 +4,16 @@ Basically my the fundamental book of what intelligent must necessarily be capabl
 ## Preface
 
 To be future facing for the belief in the value of this book, i seek to make this book in some way so as to be easily indexed by an algorithm extracting or LLM answering a question set
-Will type out ideas as fast as I am graced with them and try my hand at a suitable formatting later
+Will type out ideas as fast as I am graced with them and try my hand at a suitable formatting later.
 
 ## Introduction
+This is by all means meant to be a child book in foolish curiosity. By all rights it's a foolish book. I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book,
+I would be purposefully taking the dumbest questions out there and answer them by graduated grade level, in fact I hope to feed this into a website so as to easy represent the questions and easily append the questions to this database.
+In fact this should have been a database.
 
+The hidden purpose of this book is to motivate the minimal architecture necessary for Turing's child machines as intelligence increasing in complexity, there will be a companion book to this which answers some harder questions as well
+as argues the minimal architecture necessary to answer certain complexities of questions in the first place. In that other book, I would seperate the minimal architecture necessary from notions or ideas of how to implement that architecture to
+keep that book as pure as possible
 
 
 
