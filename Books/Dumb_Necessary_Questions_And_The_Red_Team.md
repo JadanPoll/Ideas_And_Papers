@@ -16,10 +16,13 @@ Will type out ideas as fast as I am graced with them and try my hand at a suitab
 
 
 Why is the sky blue? Why must one care why the sky is blue?
+
 Why must an intelligence care for mathematics?
 Practicality of counting, estimation.
 But then why introduce stuff like symbolic algebra? Language is almost certainly more efficient.
 
+
+Why must intelligence be able to do basic arithmetic, are there equally appreciable alternative?
 Why do some specialize and care extraordinarily about mathematics for mathematics sake?
 
 Why does an intelligence get bored?
