@@ -13,13 +13,13 @@ what the intelligence necessarily needs and instead heavily copies inspiration f
 By arguing from first principles what the minimal architecture necessarily must be, we isolate from the mysticism of intelligence itself by focusing not on how it happens to be implemented but intuitive models
 of what it necessarily must be
 
-## Fractal Memory Architecutre
+### Fractal Memory Architecutre
 
-## Our Findings on the ability to hide "savant" programmes
+### Our Findings on the ability to hide "savant" programmes
 
-## Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
+### Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
 
-## Going beyond the limitations of human definitions
+### Going beyond the limitations of human definitions and labels
 
 
 # The Z-Space
