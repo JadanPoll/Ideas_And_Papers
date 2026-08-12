@@ -15,12 +15,22 @@ The hidden purpose of this book is to motivate the minimal architecture necessar
 as argues the minimal architecture necessary to answer certain complexities of questions in the first place. In that other book, I would seperate the minimal architecture necessary from notions or ideas of how to implement that architecture to
 keep that book as pure as possible as well as document my experiences and insights and conversations on building out that architecture
 
+Instead of building LLMs from the enormities of the English language, we build it up from the minimal architecture forced by our want for it to answer certain kinds and sets of questions.
+
 I beleive red team questions are necessary, qustions about the questions to push the response to the limit but i fear at this point I have no idea of a clean way to do it, same with the questions by grade as the relevance and how one would respond to the question should itself be changed by grade
 
 ## Questions
 
+This is the very first question I deem necessaryL
+  Why is the sky blue? 
 
-Why is the sky blue? Why must one care why the sky is blue?
+These are the red-team questions i deem necessary with regards to that:
+  Why must one care why the sky is blue? Would it matter much if it was green instead?
+
+And from these if i have various intuitions on the answers it will follow in grade levels
+
+I suppose because this would eventually be a database I should have some kind of id system and definite structure so a program can easily id it, as well as for automated categorization and reorganization
+
 
 Why must an intelligence care for mathematics?
 Practicality of counting, estimation.
