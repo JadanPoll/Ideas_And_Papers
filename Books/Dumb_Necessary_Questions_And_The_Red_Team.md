@@ -77,6 +77,9 @@ Why must intelligence care for some sensibilites like music?
 Would intelligence be naturally entangled with deception at the very least intellgence that can to compete would be
 Why should intelligence be able to tell stories?
 
+
+
+Why should intelligence be able to simulate a conversation?
 ## Ideas
 
 
