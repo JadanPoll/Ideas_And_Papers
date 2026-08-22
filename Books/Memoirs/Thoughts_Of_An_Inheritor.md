@@ -1,4 +1,4 @@
-Compress thoughts thread on the subject and nature and gratitude owed to the past
+Just compressing my thoughts thread on the subject and nature and gratitude owed to the past
 
 A future generation cannot quite appreciate not having knowledge of the future or being faced with existential survival.
 
