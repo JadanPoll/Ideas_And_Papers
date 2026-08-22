@@ -55,3 +55,4 @@ Consider Babbage, Charles story...
 
 continue into my thoughts of:
 "i mean that is no way, right? even right now AI is enabling so much breadth and fracturing of scientific minds since they can independently work out concepts and AI companies can waste time fighting each other. there is nothing forcing all the brightest minds to within a room for years on end to go as deep as possible to manufacture miracles. there is much safety and much luxury of time for universites to hold debates on AI regulation even at the undergrad and highschool level. in fact the fact that talks of regulation are so public wide before AGI are astonishing.. also i feel a deep sense of gratitude, its unimagninable that we crticise wars but id have no idea of how many centuries im catapulted ahead because of the existential dread of an entire century. i mean, slavery is the one thing which we could positively do without."
+... not yet finished
