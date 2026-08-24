@@ -81,7 +81,7 @@ Why should intelligence be able to tell stories?
 
 Why should intelligence be able to simulate a conversation?
 ## Ideas
-
+note to self: by the way, the idea of red-teaming includes - what would asking better question be and why (helps serve as a better reflection task to improve ones own thinking and quality of questions)
 
 
 
