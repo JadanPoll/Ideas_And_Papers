@@ -1,6 +1,7 @@
 https://chatgpt.com/c/6a8ba012-8984-83ea-a662-a8a24af12888
 
 Need to finish write up from the above
+This also likely ties in well with my paper on Meta_Heurisitcal Learning.md since the set is the set of Problem Space
 
 Jump(or perhaps better stated, skip) based , obstruction baased problem set solving where
 
