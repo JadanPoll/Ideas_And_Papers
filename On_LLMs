@@ -16,3 +16,6 @@ yes, and then there is a meta-pyramid, just for us to keep in mind(not related t
 
 
 lets continue! its so interesting how working on a very specific idea propagates generalizations all the way up to the real world, like a kind of far-transfer learning. in fact, this itself might be its own project, the meta-pyramid, for stuff like say learing, or experimenting, or asking a question. which becomes better and more clear the mroe experience you have etc. argghh, i keep getting so many ideas but not the bandwidth to test them, that is i keep getting more ideas faster than i can close the chapter on things
+
+Domain of Validity:
+you know how i solve the red-team problem? admissibles, enumerating the conditions under which the conclusion or compressed intuition is valid, be it "given this set of my experiences or this kind of problem set", by being explicit about the admissibles based on your experience, you can allow for easy corrections when new evidence is outside the set(whether that is splitting of axioms or changing the level) and prevent silent conflations or error accumulations 
