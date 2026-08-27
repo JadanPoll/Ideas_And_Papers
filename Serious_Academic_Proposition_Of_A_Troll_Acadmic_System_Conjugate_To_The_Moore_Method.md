@@ -92,5 +92,8 @@ Chatgpt again says something I like:
 Moore attempts to cultivate powerful reasoning by protecting a developing mind from intellectual cross-pollination. The pseudo-genetic method does almost the opposite: deliberately expose the mind to enormous controlled variation, then train it to coarsen, recombine, regulate, falsify, specialize, and audit the resulting intellectual genes.
 
 
+Me:
+
 The First time you encounter a concept or new unfamiliar noun, you should not leave until you can at least describe the idea and the intuition behind it.
-The second time you encounter the conept is much more valuable, you should then begin to build tacit familiarity with it, how much of course increasing as n--(3rd,4th, 5th time)
+The second time you encounter the conept is much more valuable, you should then begin to build tacit familiarity with it. start solving very simple examples. the first time made you brain just on the point of being familiar enough that it can cognitively manage more pressure
+as n increases (3rd,4th, 5th time), you should then build more tacit familiarity and intutive familiarity, this includes more compelx examples, applications, deriving the concept from simpler ones, cross-dmain applicability, here is where the ansatz builds. knowing a concept and failing to even realize its application or even relevant when a more obscure situation comes up that uses it is a catastrophic failure, hence n must necessarily grow
