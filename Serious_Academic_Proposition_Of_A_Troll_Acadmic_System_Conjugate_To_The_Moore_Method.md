@@ -55,3 +55,12 @@ model-generation and mathematical reality-checking so deeply internalized that a
 
 
 they should also be able to look back in history and look back at previous models and understand the certification of why they failed. most textbooks compress out a lot of the failed work, or the problems people were actually wrestling with. mak planck was not actually wrestling with black body radiatoin when he began trying to issue a corrective granularity factor. since most of them likely already know the winning notation but they likely don tknow precisely where the other ones fail. the thing is while the need to be intuitively generative, they should also be intutively counter-factual. see their model not as ultimate reality but simply a substrate for thinking about ideas, aware of its limitations, etc
+
+
+also we pressure or hold in high regard the number of papers one is able to evaluate quickly at a time, not an exact read but a read of the shape. obviously the more you read, and the more familiar the easier it is to evaluate the shape of the argument or the more you can predict. i think for now the upppr limit(my own limit im trying to get to) is 10. perhaps 2 serious reads for things you find highly interesting and 8 where your quickly scanning for the shape of the argument. so 10 per day. you should also write-up your comments on each one and store those notes, the paprs you read or saccaded and your comments, 10 papers per day.
+
+no. maybe its not enough? im trying to model this education to be a conjugate but monstrously absurd to most people similarly to moore
+
+loll, wait that does sound monstrously absurd. far above even my estimation of my own abilites from this standpoint in time! looking very moore like! yes, and you should act like an editorial review papers, making claims on what you would have done better, or how you would have introduced the topic or concluded better or if the author genuinely does something interesting that is deeply enriching in insight for you
+
+yes. eventually even when they are walking, or sightseeing if they are not careful, the world would seem to be whispering and even screaming all kinds of stuff to them (we are pairing this with problem work books btw, where the goal isnt necesssarily to solve but to see how fast they can orient int he relevant direction and think of the relevant equations. workbooks allow one to see how constuctions and questions can be modeled into actual problems etc
