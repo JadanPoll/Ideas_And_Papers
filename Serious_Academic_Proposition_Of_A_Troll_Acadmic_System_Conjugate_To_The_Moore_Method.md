@@ -52,3 +52,6 @@ model-generation and mathematical reality-checking so deeply internalized that a
 
 
  all kinds of clever ideas for a "coursework" are coming to mine. for example one should have enough of an intuitve feel eventually that they are able to fluidly invent notations for their ideas, or compress existing notations etc.  basically you stop seing maths as rote and more like a language within which you can develop your own or use more effecient semantics
+
+
+they should also be able to look back in history and look back at previous models and understand the certification of why they failed. most textbooks compress out a lot of the failed work, or the problems people were actually wrestling with. mak planck was not actually wrestling with black body radiatoin when he began trying to issue a corrective granularity factor. since most of them likely already know the winning notation but they likely don tknow precisely where the other ones fail. the thing is while the need to be intuitively generative, they should also be intutively counter-factual. see their model not as ultimate reality but simply a substrate for thinking about ideas, aware of its limitations, etc
