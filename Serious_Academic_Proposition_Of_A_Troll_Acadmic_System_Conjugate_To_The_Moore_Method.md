@@ -72,8 +72,15 @@ Use the index at the end of textbooks to jump into arguments you are not familia
 me:
 ablation/coursening - you first learn something and its highly specific, needs a conscious trigger, narrow winow of applicability. when you read many different perturbances and situations and applications of that thing, it becomes more like a shape, a vague shape, starts being a tool that gets triggered without conscious deliberation when the problem shape happens to fit it. now its there but how does it get incident on? the more you access it, in different contexts, application, peturbance, the more incident points you build into it, eventually, situations that use it will automatically bring it to mind since your neural machinery, once it sees the problem, wont fail to hit it even if it remotely applies because it stored the general shape and compressed heurisitcs for when it is relevant. this is partly why i argue for problem sets, it shows you all sorts of wierd situations, aa situation can apply in and eventually your brain compesses those meta-heuresics so background retrieval can start happening without much conscious deliberation
 
+Ablation asks what can be removed while preserving the usefuls structure, that is you undestand the idea more generally and its intrinisc motivations. for me, i like to include stuff like the historic progression of the idea and competing ideas of the time since that
+helps me establish what the useful natural triggering context was which i store much easier and more richly than the textbook abstractified and sanitized version
+coursening is what remains after many encounters, like there particular P becomes an organizing or functional tool or domain
+
 intsead of starving you of literature, the whole point is your ability to hop through the literature to answer any question or at least clarify to yourself why the question is so difficult or what one needs to break down, for these to be effective, one
 needs to be so used to seeing and reading, used to the regularities o researvh papers and mathematics that they are effectively performing chunking on a background level. 
 You should be able to very very quickly evaluate proofs as chunking and if not, state precesily the obstuction in terms of P of if you should enrich that gene
 
 what matters is realy not that you get stuck or are not fast enough, that is highly to be expected, what matters is that you can consciously audit precisely your obstruction and what to do to "repair" that idenfied absent gene or non-expesssive gene
+
+Chatgpt said something i like:
+The “gene” metaphor works well as shorthand: cross-domain saturation supplies variation, while the \(P\)-system lets you identify, split, enrich, compose, and audit the reusable backbone structures
