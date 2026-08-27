@@ -91,3 +91,6 @@ The “gene” metaphor works well as shorthand: cross-domain saturation supplie
 Chatgpt again says something I like:
 Moore attempts to cultivate powerful reasoning by protecting a developing mind from intellectual cross-pollination. The pseudo-genetic method does almost the opposite: deliberately expose the mind to enormous controlled variation, then train it to coarsen, recombine, regulate, falsify, specialize, and audit the resulting intellectual genes.
 
+
+The First time you encounter a concept or new unfamiliar noun, you should not leave until you can at least describe the idea and the intuition behind it.
+The second time you encounter the conept is much more valuable, you should then begin to build tacit familiarity with it, how much of course increasing as n--(3rd,4th, 5th time)
