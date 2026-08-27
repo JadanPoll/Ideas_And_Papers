@@ -49,3 +49,6 @@ Chatgpt says it beautifully:
 Learn enough mathematics that reality starts suggesting mathematics at you
 And
 model-generation and mathematical reality-checking so deeply internalized that a student can wander almost anywhere intellectually without becoming untethered.
+
+
+ all kinds of clever ideas for a "coursework" are coming to mine. for example one should have enough of an intuitve feel eventually that they are able to fluidly invent notations for their ideas, or compress existing notations etc.  basically you stop seing maths as rote and more like a language within which you can develop your own or use more effecient semantics
