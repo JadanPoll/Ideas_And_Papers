@@ -67,3 +67,7 @@ yes. eventually even when they are walking, or sightseeing if they are not caref
 
 
 Use the index at the end of textbooks to jump into arguments you are not familiar with
+
+
+me:
+ablation/coursening - you first learn something and its highly specific, needs a conscious trigger, narrow winow of applicability. when you read many different perturbances and situations and applications of that thing, it becomes more like a shape, a vague shape, starts being a tool that gets triggered without conscious deliberation when the problem shape happens to fit it. now its there but how does it get incident on? the more you access it, in different contexts, application, peturbance, the more incident points you build into it, eventually, situations that use it will automatically bring it to mind since your neural machinery, once it sees the problem, wont fail to hit it even if it remotely applies because it stored the general shape and compressed heurisitcs for when it is relevant. this is partly why i argue for problem sets, it shows you all sorts of wierd situations, aa situation can apply in and eventually your brain compesses those meta-heuresics so background retrieval can start happening without much conscious deliberation
