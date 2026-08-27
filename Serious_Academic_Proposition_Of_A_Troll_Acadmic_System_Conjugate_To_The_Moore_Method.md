@@ -1,4 +1,6 @@
 
+In response to Moore:
+
 now my goal is to read every piece of literature i can about the Moore method, and design a system that is its conjugate. not a literally inversion oeprator on everything but a direct inversion at least in the axiomatic ideas of his method
 Basically simply study as much of the Moore Method as possible and create its mathematical inverse
 
@@ -68,7 +70,7 @@ yes. eventually even when they are walking, or sightseeing if they are not caref
 
 Use the index at the end of textbooks to jump into arguments you are not familiar with
 
-
+A pseduo-genetic model for intelligence
 me:
 ablation/coursening - you first learn something and its highly specific, needs a conscious trigger, narrow winow of applicability. when you read many different perturbances and situations and applications of that thing, it becomes more like a shape, a vague shape, starts being a tool that gets triggered without conscious deliberation when the problem shape happens to fit it. now its there but how does it get incident on? the more you access it, in different contexts, application, peturbance, the more incident points you build into it, eventually, situations that use it will automatically bring it to mind since your neural machinery, once it sees the problem, wont fail to hit it even if it remotely applies because it stored the general shape and compressed heurisitcs for when it is relevant. this is partly why i argue for problem sets, it shows you all sorts of wierd situations, aa situation can apply in and eventually your brain compesses those meta-heuresics so background retrieval can start happening without much conscious deliberation
 
@@ -85,3 +87,7 @@ what matters is realy not that you get stuck or are not fast enough, that is hig
 
 Chatgpt said something i like:
 The “gene” metaphor works well as shorthand: cross-domain saturation supplies variation, while the \(P\)-system lets you identify, split, enrich, compose, and audit the reusable backbone structures
+
+Chatgpt again says something I like:
+Moore attempts to cultivate powerful reasoning by protecting a developing mind from intellectual cross-pollination. The pseudo-genetic method does almost the opposite: deliberately expose the mind to enormous controlled variation, then train it to coarsen, recombine, regulate, falsify, specialize, and audit the resulting intellectual genes.
+
