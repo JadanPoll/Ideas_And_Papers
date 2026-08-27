@@ -39,3 +39,8 @@ back to me:
 
 
 https://chatgpt.com/c/6a8ff79d-9bf8-83ea-a956-a2a39c379bec
+
+
+yes. where here instead of moore, whose class is basically admitting ramanujan lilke minds(or at least hopes to of deriving proofs from bedrock) ours is more admitting and certifying "fenyman" like minds. that can easily explain things to even a high schooler, can do the mathematics. could make everything look "fun" , have rich analogies etc. In fact, we would probably have them writing a mini-book or pamphlet for high schoolers (during one of our lessons) and go give  it to a high school physics teacher etc and take feedback etc
+
+also i think we might make our class for undergraduate+graduate. where moore moans about the mind being cross-polinated and hence corrupted for his class, we moan that the graduate population is usually too rigid or too sunk-cost in their way of doing things hence its not for everyone
