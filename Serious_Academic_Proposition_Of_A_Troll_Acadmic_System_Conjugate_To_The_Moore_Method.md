@@ -64,3 +64,6 @@ no. maybe its not enough? im trying to model this education to be a conjugate bu
 loll, wait that does sound monstrously absurd. far above even my estimation of my own abilites from this standpoint in time! looking very moore like! yes, and you should act like an editorial review papers, making claims on what you would have done better, or how you would have introduced the topic or concluded better or if the author genuinely does something interesting that is deeply enriching in insight for you
 
 yes. eventually even when they are walking, or sightseeing if they are not careful, the world would seem to be whispering and even screaming all kinds of stuff to them (we are pairing this with problem work books btw, where the goal isnt necesssarily to solve but to see how fast they can orient int he relevant direction and think of the relevant equations. workbooks allow one to see how constuctions and questions can be modeled into actual problems etc
+
+
+Use the index at the end of textbooks to jump into arguments you are not familiar with
