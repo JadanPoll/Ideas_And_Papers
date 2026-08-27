@@ -98,7 +98,8 @@ The First time you encounter a concept or new unfamiliar noun, you should not le
 The second time you encounter the conept is much more valuable, you should then begin to build tacit familiarity with it. start solving very simple examples. the first time made you brain just on the point of being familiar enough that it can cognitively manage more pressure
 as n increases (3rd,4th, 5th time), you should then build more tacit familiarity and intutive familiarity, this includes more compelx examples, applications, deriving the concept from simpler ones, cross-dmain applicability, here is where the ansatz builds. knowing a concept and failing to even realize its application or even relevant when a more obscure situation comes up that uses it is a catastrophic failure, hence n must necessarily grow.
 
-oh my days, sorry just had to include this, chatgpt said somehting so thrillignly reelvant
+oh my days, sorry just had to include this, chatgpt said somehting so thrillignly reelvant:
+
 This adds an important missing axis: **a \(P\)-object should have an exposure/development state**, not merely exist or not exist.
 
 You can model it roughly as
