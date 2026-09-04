@@ -1,3 +1,4 @@
+The problem is eventually simply, however sloppiness knows no bounds
 My Thoughts on EWD 1304
 Me: This is my note on that EWD basically in any field, mathematics, algorithms and thinking, strive for elegance. 
 Separate intrinsic complexity from professed complexity because one cannot be bothered to educate oneself.
