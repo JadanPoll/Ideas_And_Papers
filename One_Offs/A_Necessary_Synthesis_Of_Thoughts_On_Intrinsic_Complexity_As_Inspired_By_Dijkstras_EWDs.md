@@ -1,5 +1,5 @@
-The problem is eventually simply, however sloppiness knows no bounds
-My Thoughts on EWD 1304
+# The problem is eventually simply, however sloppiness knows no bounds
+`A Necessary Synthesis of Thoughts on Edsger Wybe Dijkstra's EWD 1304 Writings`
 Me: This is my note on that EWD basically in any field, mathematics, algorithms and thinking, strive for elegance. 
 Separate intrinsic complexity from professed complexity because one cannot be bothered to educate oneself.
 According To Dijkstra, the one who professes to be a "programmer" must separate intrinsic intricacy from accidental intricacy.
