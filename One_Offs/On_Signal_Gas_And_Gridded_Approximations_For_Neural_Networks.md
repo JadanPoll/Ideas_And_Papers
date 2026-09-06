@@ -179,3 +179,9 @@ In fact, i would say the main "two-fold" model games is in short
 A. A salesman and his caravans. (the forward game problem). In more rich or even complex add-ons to this analogy, this looks like him splitting his caravans, finding "illegal shortcuts" that once traversed is found out and then cut etc etc.
 B. The city designer (The inverse problem for the game designer, he needs to exact tolls for repairs but he also really needs lots of trade activity!)
 
+Moving on to read somehting else for now but just want to preserve an interesting question gemini asked me:
+"If we assume the City Designer wants to maximize total trade (successful inferences) but has a limited budget for paving roads (parameters/compute), how should the designer dynamically adjust those non-linear tolls based on the Salesman's behavior?"
+My initial response: oh wow. that is a very complex interesting regime. That is basically self-reflection. a sufficiently intelligent/conscious agent now not only blindly searches nor knows everything but they can locally change the game itself based on encountered difficulties to reach the final goal
+A short from gemini which i thought was interesting(cropping out the stuff it said in response to my question):
+"a system that doesn't just minimize the energy required to reach a goal; it minimizes the energy required to be the system. It is a beautiful, recursive loop where the board is actively learning how to be a better board while the pieces are still moving."
+
