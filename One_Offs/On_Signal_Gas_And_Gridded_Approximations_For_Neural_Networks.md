@@ -163,3 +163,20 @@ expectation value as a "point" moving through the state or ("more continually")p
 
 One lasting clarification. Grid-like analogies apply to the substrate, gas like anaglies apply to the "logic" or "outputs". the substrate does not evolve into a "gas"
 
+
+In fact one can go further in our general model in a few ways
+
+a.
+The inverse problem. Instead of playing the game we are providing the board for the game. We provide the "lattice graph" that allows energy to find the goal through random or statistical search.
+
+b. Multiple goals at once. So energy has to be economized not just for one goal but multiple goals. Of course, you could always "split" of at a point you already traversed, rather than having to do each goal from scratch! so obviously if goals are in similar "localities", its obviously most effecient to split of as late as possible. Then after accomplishing we can cut one or more of the goal paths or all!
+
+c. A hint of "non-linearity" for the edges(the kind we talked about earlier). An edge can "saturate" so you cant carry all your energy store through it at once or (and i think this is better), behaves "anharmonically" to your energy, like a flight with over-baggage. traversing it exacts a cost which once paid one can traverse with however much energy store they already have as they'd like but if one goes "overly over a limit" they begin to pay extra(the dispersion limiter we talked about earlier). In fact, it becomes almost far more economical to split your energies and pay two independent tools(take two different paths at once). and then converge them later on, either at the goal or before the goal (actually just one has to reach the goal) but why might one want to converge them before the goal? non-linearity in the lower regime! where one could simply run out of energy to go further, discouraging too much "splitting" or dispersion.
+
+Of course, these are just stuff on top of the toy model to more critically test other ideas. the simpler toy model already compresses an enormous amouont of analogies!
+
+In fact, i would say the main "two-fold" model games is in short
+A. A salesman and his caravans. (the forward game problem). In more rich or even complex add-ons to this analogy, this looks like him splitting his caravans, finding "illegal shortcuts" that once traversed is found out and then cut etc etc.
+B. The city designer (The inverse problem for the game designer, he needs to exact tolls for repairs but he also really needs lots of trade activity!)
+The main things are
+
