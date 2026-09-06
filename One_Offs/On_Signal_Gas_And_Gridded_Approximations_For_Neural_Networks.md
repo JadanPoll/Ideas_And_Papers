@@ -87,6 +87,8 @@ Basically a Fenyman style, renormalization for neural networks at various micro-
 
 I love you idea of the difference between averaging and emergence. I had never thought that way, that is particularly interesting.
 
+How the "grid-like" analogy is realized microscopic style through perturbances
+
 (I) is very interesting, because it can overwhelmingly be true and the "renormalized" descriptions overwhelmingly effective, but where it
 fails it allows for stuff like "exceptions". just look at the periodic table and how certain "exceptions" literally happen because of 
 relativistc effects(like the colour of gold and why some metals are liquids) despite us having a deeply effective and low-level idea of orbitals s,p,d,f
