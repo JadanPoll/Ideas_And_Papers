@@ -54,7 +54,8 @@ If yes, can apporximate network as grid. If yes for the signal, can approximate 
 obviously given a particularly challenging macrostate goal relative to a particular "limited" neural network graph, 
 there aren't many microstates that can realize it so our approximation ideas will thus be ill-conditioned.
 
-Things to read: Should read more on lars onsanger and how he realized that the "dispersion behavior" of "local noise perturbations and disturbances in reactions and fluids" actually realizes itself in global "macrostate" metrics like heat capacities etc.
+Things to read: Should read more on lars onsanger and how he realized that the "dispersion behavior" of "local noise perturbations and disturbances in reactions and fluids" (basically microscopic or local time reversibilitiy)
+actually realizes itself and can be used to represent and infer global "macrostate" metrics like heat capacities etc.
 
 Gas is the approximation model for the signal flow through a neural network.
 Grid is the approximation for the neural network wiring itself. when dense and large enough.
