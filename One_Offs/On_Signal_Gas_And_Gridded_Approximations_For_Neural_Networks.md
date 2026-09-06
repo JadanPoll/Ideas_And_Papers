@@ -49,7 +49,7 @@ more "global" macrostate with its "different realizations through microstate pos
 Brownian noise to represent the idea that locally apparently similar or global microstates can evolve over time to loook globally very different
 when you look globally over global timescales of course.
 
-Ill-condition metric for gas and grid approxiamaition _> can  a microstate  be realized by many alternative microstates.
+Ill-condition metric for gas and grid approxiamaition _> can  a macrostate  be realized by many alternative microstates.
 If yes, can apporximate network as grid. If yes for the signal, can approximate signal as gas. If  a neural network is too small, then
 obviously given a particularly challenging macrostate goal relative to a particular "limited" neural network graph, 
 there aren't many microstates that can realize it so our approximation ideas will thus be ill-conditioned
@@ -57,3 +57,4 @@ there aren't many microstates that can realize it so our approximation ideas wil
 
 Note: One has to realize that this is all connected to me but perhaps not obviously so to others reading due to the fact 
 that they aren't in my train of thought and analogical model space.
+Basically a Fenyman style, renormalization for neural networks at various micro-macroscope scales and bluring of the eyes.
