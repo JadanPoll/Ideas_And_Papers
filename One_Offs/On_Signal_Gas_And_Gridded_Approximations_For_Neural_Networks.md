@@ -161,3 +161,5 @@ Becomes tool-based or composability based.
 And signal becoomes a gas- that is "fluid-like", "ideal gas like" or even "photonic gas like"(remember our earlier analogies with
 expectation value as a "point" moving through the state or ("more continually")phase-space of the macrostates.
 
+One lasting clarification. Grid-like analogies apply to the substrate, gas like anaglies apply to the "logic" or "outputs". the substrate does not evolve into a "gas"
+
