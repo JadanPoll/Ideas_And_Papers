@@ -83,3 +83,10 @@ A valuable thing to do would be establish all sorts of rich conditions and quest
 Note: One has to realize that this is all connected to me but perhaps not obviously so to others reading due to the fact 
 that they aren't in my train of thought and analogical model space.
 Basically a Fenyman style, renormalization for neural networks at various micro-macroscope scales and bluring of the eyes.
+
+
+I love you idea of the difference between averaging and emergence. I had never thought that way, that is particularly interesting.
+
+(I) is very interesting, because it can overwhelmingly be true and the "renormalized" descriptions overwhelmingly effective, but where it
+fails it allows for stuff like "exceptions". just look at the periodic table and how certain "exceptions" literally happen because of 
+relativistc effects(like the colour of gold and why some metals are liquids) despite us having a deeply effective and low-level idea of orbitals s,p,d,f
