@@ -61,9 +61,11 @@ Gas is the approximation model for the signal flow through a neural network.
 Grid is the approximation for the neural network wiring itself. when dense and large enough.
 
 The interesting question is usually you would think you have both but are there conditions where 
-a. The signal can be appoximated as a gas but the neural network not as a grid
+a. The signal can be appoximated as a gas but the neural network not as a grid. Gemini gave a particularly interesting example:
+"A highly pressurized fluid flowing through an extremely irregular, fractal, or bottlenecked pipe system.", my interpretation of it is basically when a signal "floods" and is "high pressure" on a highly irregular graph, it saturates and "locks up" many links and connections, and essentailly its flow looks more smooth. If the signal isnt strong enough to flood or lock up a good enough fraction of the regularities then it looks more "turbulent" or more at the mercy of the particular local feelings of the network. 
 b. The neural network as a grid but the signal definitely not as a gas (for example the signal is generally too weak so it is 
-enormously sensitive to the grid conditions)
+enormously sensitive to the grid conditions). Gemini also gave a good example for this:
+"A massive, perfect crystalline lattice, but the temperature is so low that particles behave as isolated ballistic trajectories rather than a continuous fluid." Basically if you take "grids" to mean a specific properties of a very large and particular kind of regular networking then things are overwhelmingly linear, however careful here, notice that it is "large" or there are a lot of elements. therefore if you signal is weak enough or sparse enough, its far more likely to get "trapped" in a non-linearity simply because its crossing through a large amount of linearities at an energy scale where it eventually is most likely to get "snagged". Not enough signal pressure that it "take advantage" of an overwhelmingly "linear" graph. Basically you have a semi-conductor but you are operating on "unreasonably low" energies.
 
 These approximations get at ideas like the motivating reason for fermi-level, semi-conductor, metals and non-metals as electron configurations merge and behave continous even for few atoms, always re-equilibrating and redistrubuting(for metals). 
 need 10^23 atoms having a particular energy configuration behaviour
