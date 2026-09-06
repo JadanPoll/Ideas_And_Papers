@@ -36,3 +36,5 @@ Algebra is a phenomenally useful kind of tool for this, but this time instead of
 language on it, not using it as a tool, but binding to the natural world directly mathematically. 
 "If I got paid 10 pence but owe 6 pence how many would I have left", a sheer density of statements like this to begin building mathematics language
 straight from the natural world, without thinking about translation might be invaluable.
+
+My motivation for the mathematics argument in particular is for the reading of mathematic papers and proofs without my working memory all to quickly being filled up by the mental translation of the new. It realize the more contact I have with a domain, the more I see the shape and don't have to track individual symbols but like my symbolic density lamentation, ive alreaady bound a base, but im trying to read complexity at a much higher density than im familiar with so my brain isnt even processing the challenge, its just trying to ignore or track the simpler things because there is the apparence of too much complexity!
