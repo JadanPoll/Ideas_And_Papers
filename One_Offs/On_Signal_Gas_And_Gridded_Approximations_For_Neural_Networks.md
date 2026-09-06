@@ -79,6 +79,9 @@ Background: In the sense of the Pauli exclusion principle, no two electrons can 
 
 Bosonic Logic: Represents distributed and highly dense representations, no single neuron "knows" the concept but millions of neurons possess a microscopic bias to it that is coherent with itself(sticks with itself, superimposes with itself, however one wants to interpret this specific part of the analogy specifically etc), When added together an undeniable logical macrostate follows. There is a particularly interesting two-fold regime of this that chatgpt mentions that i'll get to in a bit cause it was incredible insightful and have never thought much about it. Within this, there is two likely bosonic flavors, averaging vs emergence, will write up on that in a bit.
 
+
+With Discrete logic as the thermodynamic macrostate or renormalization of both of these.
+
 and insulators where its binned everywhere so no matter how far you zoom out, any signal is prevented from disturbing and is entirely local and static).
 
 And similar to the Einstein solid/oscillator argument for when things like heat capacity make sense and diverge. with the conditioning based on
