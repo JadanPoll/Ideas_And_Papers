@@ -95,7 +95,22 @@ that they aren't in my train of thought and analogical model space.
 Basically a Fenyman style, renormalization for neural networks at various micro-macroscope scales and bluring of the eyes.
 
 
+Now back to compressing a really invigorating thing that chatgpt said(at least i think so):
 I love you idea of the difference between averaging and emergence. I had never thought that way, that is particularly interesting.
+In its(chatgpt) words considering my "unscattering" idea:
+Individual microscopic events are insufficient to constitute the effective object, but sufficiently many events
+preserve/reinforce a common structure rather than destroying it. Microstates can collectively produce a mode that isnt particularly 
+meaninful to any individual microstate. But within this there are two important regimes
+Averaging: This suppresses noise, more a feature of the noise canceling itself out
+Averages suppress noise $\frac{1}{N} \sigma_i{x_i}$
+Emergence/Coherence: This enhances signal, its less about noise canceling out and more about the signal or mean. reinforcing itself,
+in fact, noise actively destroys it from forming(unlike the averaging where the noise cancels itself out, here the noise (like crystal defects), works to prevent the sharp signal from cohering. interfers with its ability to effectively add.
+Emergence/coherence: $\sum_i{A_i e^{i \phi_i}}.
+
+
+"Unscattering" is more interesting when it points towards the condition of the second.
+
+
 
 How the "grid-like" analogy is realized microscopic style through perturbances
 
