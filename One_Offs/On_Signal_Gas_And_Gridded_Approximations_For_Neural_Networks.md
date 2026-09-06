@@ -52,8 +52,25 @@ when you look globally over global timescales of course.
 Ill-condition metric for gas and grid approxiamaition _> can  a macrostate  be realized by many alternative microstates.
 If yes, can apporximate network as grid. If yes for the signal, can approximate signal as gas. If  a neural network is too small, then
 obviously given a particularly challenging macrostate goal relative to a particular "limited" neural network graph, 
-there aren't many microstates that can realize it so our approximation ideas will thus be ill-conditioned
+there aren't many microstates that can realize it so our approximation ideas will thus be ill-conditioned.
 
+Things to read: Should read more on lars onsanger and how he realized that the "dispersion behavior" of "local noise perturbations and disturbances in reactions and fluids" actually realizes itself in global "macrostate" metrics like heat capacities etc.
+
+Gas is the approximation model for the signal flow through a neural network.
+Grid is the approximation for the neural network wiring itself. when dense and large enough.
+
+The interesting question is usually you would think you have both but are there conditions where 
+a. The signal can be appoximated as a gas but the neural network not as a grid
+b. The neural network as a grid but the signal definitely not as a gas (for example the signal is generally too weak so it is 
+enormously sensitive to the grid conditions)
+
+These approximations get at ideas like the motivating reason for fermi-level, semi-conductor, metals and non-metals as electron configurations merge and behave continous even for few atoms, always re-equilibrating and redistrubuting(for metals). 
+need 10^23 atoms having a particular energy configuration behaviour
+for it to then be renormalized (the semi-conductor condition) and insulators where its binned everywhere so no matter how far you zoom out, any signal is prevented from disturbing and is entirely local and static).
+
+And similar to the Einstein solid/oscillator argument for when things like heat capacity make sense and diverge. with the conditioning based on
+$e^{\frac{\delta{E}}{k_BT}}$
+ 
 
 Note: One has to realize that this is all connected to me but perhaps not obviously so to others reading due to the fact 
 that they aren't in my train of thought and analogical model space.
