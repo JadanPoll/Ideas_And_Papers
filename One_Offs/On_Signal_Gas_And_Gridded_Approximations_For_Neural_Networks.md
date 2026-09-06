@@ -145,5 +145,18 @@ relativistc effects(like the colour of gold and why some metals are liquids) des
 Yet another whiteboard moment:
 How the "grid-like" analogy is realized and can be extended through a natural problem of "microscopic perturbances" and "search"
 
+
+Suppose i had a lattice, not necessarily evenly spaced, could be an adverserial lattice for our below purposed("horribly distorted, skewed etc"). Now suppose i draw edges between points of the lattice such that you can traverse from one point to any point. That is, from any node i, there exists a sequence of edges  such that one can always go from i to j, however you have no idea the degeneracy of this, whether(assuming you aren't revisting points unncessarily), there are many different routes to j, you just know a route exists
+Now suppose you were blink to what the lattice looked like exactly but you have the following task.
+
+
+
+a. dense and smooth- microstate degenercy, there are clear gradients for convergence.
+b. globally equivalent but path is decidedly non-local or non-obvious. that is the alternative solution path migh exist but it is hard to find simply, much less statistically. The process can differ widly but might find the same state. Then the interesting question becomes how statistically likely or hard is it to converage to the same state through widly different process - local optima traps when locking for global optima you know exists. Can one even use statistics? efficiently so? or would one need a much more enormous network with much more compute(hence going back to a.) well if we cant go back to a what can we do? we need cetain "intelligent rules or notes". This could be composing the system or composing intelligence from smaller "sub-goals" or "problems" that give us confidence in our path when we are searching. This is the regime of macrostate degeneracy, different macrostates can realize another macrostate or even a higher macrostate. Like a macrostate that can be realized as an "equation" of othr macrostates. The grid must necessarily evolve
+to a state/phase graph of macrostates. Then network becomes symbolic or rule-based network.
+Becomes tool-based or composability based.
+
+And signal becoomes a gas- that is "fluid-like", "ideal gas like" or even "photonic gas like"(remember our earlier analogies with
+expectation value as a "point" moving through the state or ("more continually")phase-space of the macrostates.
 Suppose I
 
