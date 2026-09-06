@@ -178,5 +178,4 @@ Of course, these are just stuff on top of the toy model to more critically test 
 In fact, i would say the main "two-fold" model games is in short
 A. A salesman and his caravans. (the forward game problem). In more rich or even complex add-ons to this analogy, this looks like him splitting his caravans, finding "illegal shortcuts" that once traversed is found out and then cut etc etc.
 B. The city designer (The inverse problem for the game designer, he needs to exact tolls for repairs but he also really needs lots of trade activity!)
-The main things are
 
