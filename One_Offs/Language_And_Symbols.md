@@ -60,3 +60,48 @@ as it really stress tests native thinking, not necessarily that you predicted wh
 A perhaps, how much and how largely can i chunk into one shape. For english i can mostly chunk entire paragraphs into single words, very frequently, with the "context" more like priming my brain implicitly for richer representations or predictions.
 
 Its because of this that just statistical exposure isn't enough. Due to some of the obstructions like i said like binding. It isnt that it wont work. all im saying is that it isnt linear, it takes exponentially more time if you don't have the binding at the correct levels even if you expose yourself to a statisitcal world of all sorts of complexitiees, this is partly due to working memory limitations, consolidation and attentional limitations etc. If you do it enough it definitely works i beleive except you will have holes and be limited to the domain of the statistics.
+
+
+Me to chatgpt:
+yes. if i can see the "picture" of the equation or the "world of mathematics" a problem admits almost intutively. the goal is decidedly on track. by the way, what questions should i consciously be asking myself during this experiment. a particularly valuable question for example is given what i read next, was it intuitively admissiblle from the previous state, it will help me to clearly identify and localize "speed bumps" in my intutive flow so i can do a sort of targeted practice later on after collecting that data. the beuatiful thing is i can think or read a problem and quickly see the "shape" of the admissible equations without even having to break it down through "thinking english" into the domain of applicability
+
+
+My writeup from its  suggestion:
+1. What mathematical shape did I see before I verbalized it? What equations/objects/relationships became quickly visible me as possible canidates?
+
+2. What was the space of admissible mathematics? What mathematical forms where plausible given the situation?
+
+3. after encountering the next step, was it retrospectively admissible?  Given the previous symbolic state, was what cam next intuitively admissible? It could be 
+A. yes obviously, what a nuisance to interrupt my thoughts to ask that (great we have chunking!)
+B. I could see the general region but not the move, that is eg:" I knew we'd need a rate equation but didn't see this particular form". Great! We have good intuitive direction and can see the "shape" of things.
+
+C. I understood it immediately after seeing it but couldn't have regarded it as plausible before hand. okay, that's fine, there is a predictive gap
+
+D. It seemed completely alien until it was explained. Now we have speed bump which we may diagnose as
+B = binding failure
+S = symbolic manipulaiton failure
+G = glue/syntax/syntax transformation failure(or better word friction)
+C = context/invariant failure
+P = prediction failure
+D = density overload.
+
+You want the readout to look something like
+Flow -> FLow -> B -> Flow -> P -> Flow.
+
+Now for improving 1-2C, so its more robust or we can audit how robust it is we can ask
+1. What remained in conscious attention unnecessarily. For mathematics, did i consciously track every $\forall \in$, parenthesis, index and substition? or did i simply "perceive it"/
+
+2. What did i discard as irrelevant, that is discarding irrelevant symbolic information without losing structure. What did i ignore that i shouldh't have. (a kind of false fluency check). this applies more for language that mathematics cause in mathematics a false fluency will quite soon scream and reveal itself! this matters if we care for robustness in different domains or want to know how robust our bae foundations are.
+
+3. could i think of or "see" another problem that has the same shape? This is bidirectionally binding of symbolics or language. Much stronger than recognition, in fact, this dramatically improves recognition if one isn't too lazy to try it!
+
+4. What were some different mathematical continuations or offshoots of this? This means that not only are you fluent or intuitive but its intrinisc enough that its combinatorially generative so for your mind.
+For example you think or be able to read "This quantity is conserved", and before the authors next words you are already generating different domains that might appear next, whether its fluid dynamics, quantum probailities(or probability in general), exceptions of "quantity conserved" or how it is simplifed in various domains "like approximately conserved on local time scales" for simpler equations
+
+5. How large of a chunking could i do. How much did I experience or could I experience as one thing. Initially it might be
+
+a -> b -> c -> d -> e
+but eventually A -> e. in fact, your eyes can quickly skip maybe c or d because you can quickly tell its not largely relevant. I do this for english all the time, when reading, things that have "shorter shapes" i quickly skip, my mind automatically fills in the conenctives and im just tracking changes in direction of thought. I realized I was doing this after spending days to weeks of time interacting with LLMs, because i was reading far more but at some point i realized there's no reason to track every word, in fact, LLMs usually use "statisitcally flat" connectives that i can just track the argument shape more so that "read it", just paing attention to where the structue literally looks different like something in bold, or symbolic notations being included etc..
+
+Eventually after reading your insights you may realize, "I consistently fail to recognize where conservation or differentail equations might be admissible to explore an argument". Then one simply can do a targetted burst of "50 widly diferent physical/economical or even bological and spatial situations whose underlying mathematical structure is that specific tool or symbolic domain, as well as (and this is important and even doable with LLMs today, questions that try to "hide" or make it "non-obvious" that it might be admissible"
+
