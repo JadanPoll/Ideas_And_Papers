@@ -52,3 +52,9 @@ So in one way the goal is not "I know a lot of mathematics or language X", or "I
 
 An expert proof may contain 200 symbolic operations but the expert really only consciously experiences more like 10-20 chunks on reading and maybe 50-80 on writing.
 
+A good test for language/mathematics through this route is "how much can i perceive or chunk before symbolic translation or slow down becomes necessary". "which particular elements caused the slow down and why"
+What symbols needed conscious attention or were far from automatic?
+What wasn't recognizable as a full unit?
+What moves or contexts was i unable to predict or weren't plausible as continuations after reading on?(this is particularly interesting
+as it really stress tests native thinking, not necessarily that you predicted what they were going to say next but that after reading what they said next and thinking back it was a plausible continuation)
+A perhaps, how much and how largely can i chunk into one shape. For english i can mostly chunk entire paragraphs into single words, very frequently, with the "context" more like priming my brain implicitly for richer representations or predictions.
