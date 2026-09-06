@@ -69,7 +69,7 @@ need 10^23 atoms having a particular energy configuration behaviour
 for it to then be renormalized (the semi-conductor condition) and insulators where its binned everywhere so no matter how far you zoom out, any signal is prevented from disturbing and is entirely local and static).
 
 And similar to the Einstein solid/oscillator argument for when things like heat capacity make sense and diverge. with the conditioning based on
-$e^{\frac{\Delta{E}}{k_BT}}$
+$f_i = e^{-\frac{\Delta{E}}{k_BT}}$
  
 
 A valuable thing to do would be establish all sorts of rich conditions and questions one should ask to determine where a "renormalization" or alternative model use or alternative macrostate and macro-macro state description is admissible.
