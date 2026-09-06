@@ -11,7 +11,8 @@ bind the palace of complexity to that base instead of to the natural vernacular 
 Mutation of context around symbols. This is example density, but such that you can internally infer the invariant. This will enable one to
 start seeing the "shapes" instead of having to track the individual words. You are barely conscious when you read english connectives like
 "the" and "and", you are only conscious of the shape of the sentence or even multi-sentence as a whole or a particularly interesting or 
-hard word.
+hard word. This also helps prevent the mind from "memorizing the situation" but forces it to track the invariant, with the density of
+the mutation example space allowing it to put the invariant into automaticity. That is, the invariant gets pulled it or processed automatically if the context "feels" like it would admit it. you would even be conscious of it, it would just "appear to you" that oh.. this is the invariant.
 Sheer symbolic density, don't turn it into an interpretation problem, turn it into a symbolic density problem. The more density with which
 you see the world of those symbols the more quickly you'll pick it up. Of course, like I said beware of the binding problem. The brain is 
 pretty good at ignoring something once it determines its too complex in general. This is how brains should be, its simply an effeciency thing,
