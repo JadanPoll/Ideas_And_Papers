@@ -167,7 +167,7 @@ One lasting clarification. Grid-like analogies apply to the substrate, gas like 
 In fact one can go further in our general model in a few ways
 
 a.
-The inverse problem. Instead of playing the game we are providing the board for the game. We provide the "lattice graph" that allows energy to find the goal through random or statistical search.
+The inverse problem. Instead of playing the game we are providing the board for the game. We provide the "lattice graph" that allows energy to find the goal through random or statistical search. This of course looks like stuff like activation-funciton designn or "refreshment hubs" (that is sub-goals or less harsh initial goals)
 
 b. Multiple goals at once. So energy has to be economized not just for one goal but multiple goals. Of course, you could always "split" of at a point you already traversed, rather than having to do each goal from scratch! so obviously if goals are in similar "localities", its obviously most effecient to split of as late as possible. Then after accomplishing we can cut one or more of the goal paths or all!
 
