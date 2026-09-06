@@ -105,15 +105,45 @@ Averaging: This suppresses noise, more a feature of the noise canceling itself o
 Averages suppress noise $\frac{1}{N} \Sigma_i{x_i}$. 
 Emergence/Coherence: This enhances signal, its less about noise canceling out and more about the signal or mean. reinforcing itself,
 in fact, noise actively destroys it from forming(unlike the averaging where the noise cancels itself out, here the noise (like crystal defects), works to prevent the sharp signal from cohering. interfers with its ability to effectively add.  
-Emergence/coherence analogistic equation: $\Sigma_i{A_i e^{i \phi_i}}.
+Emergence/coherence analogistic equation: $\Sigma_i{A_i e^{i \phi_i}}$.
 
 
 "Unscattering" is more interesting when it points towards the condition of the second.
 
+Chatgpt then further clarifies and inspired for the renormalization criterion. 
+Consider the question:
+"Given a microscopic system and a proposed macro-description, what conditions make that macro-description dynamically admissible"
+Systematic questions:
+
+A. Multiplicity. How many microscopic configurations realize the proposed macrostate?
+
+B. Accessibility: Are those configurations actaully reachable(actually I'm not entirely sure about what chatgpt means here but i include it and will ask later in case it inspires something deep in me)
+
+C. Mixing: Does the system explore those configurations? That is, the vibration or exploration modes aren't "locked" up by too low temperatures, in this case, lack of density of "data".
+
+D. Coherence: Do microscopic contributions reinforce a common mode or does noise cancel itself out(hence leaving the signal)?
+
+E. Persistence: Does the collective structure survive longer than microscopic fluctiations.
+
+F.  Scale threshold: How large must the system be before the description stabilizing and becomes very "discrete"  and "consistent" like. That is, there is a sufficiently large system for the relevant collective organization or macrostate to become a stable effective degree of freedom (to then build on top of). My particular addition: I added to then build on top of because, well given you input,its completely fine if its not completley stable if you dont expect to go wildly out the "distribution" your are aware of, but if you are building more compelx stuff on top of "assumed necessary hierarchis of macrostates", you want to know how stable your macrostate is to be an effective descriptional degree of freedom to build on top of and explain effects in more complex systems.
 
 
-How the "grid-like" analogy is realized microscopic style through perturbances
+G. Closure: Can the macrostates be used to predict its own evolution(personally dont think chatgpt worded this in the best way): My personal thoughts: Sorry, I kind of addressed that in F, but is the macrostate description effective and stable enough that one can "renormalize" around it and use as an effective variable to combine with the other macrostates, predictably so as well.
 
-(I) is very interesting, because it can overwhelmingly be true and the "renormalized" descriptions overwhelmingly effective, but where it
+H: Does microscopic noise remain microscopic ( that is if epsilon-delta like)
+
+I: Renormalization stability:
+can you do $S \to M_1 \to M_2$
+
+
+(I) is very interesting and useful in two ways. Well, if you have a stable base, then one can easily build far more complex systems by collecting an ISA of your microstates and forming an algebra on them. the algebra of an ISA of your macrostates.  Successive coarse-graining/renormalization and forming an "algera" on every layer.
+
+However there is one particularly interesting caveat which would be extremely interesting and useful, because it can overwhelmingly be true and the "renormalized" descriptions overwhelmingly effective, but where it
 fails it allows for stuff like "exceptions". just look at the periodic table and how certain "exceptions" literally happen because of 
 relativistc effects(like the colour of gold and why some metals are liquids) despite us having a deeply effective and low-level idea of orbitals s,p,d,f
+
+Yet another whiteboard moment:
+How the "grid-like" analogy is realized and can be extended through a natural problem of "microscopic perturbances" and "search"
+
+Suppose I
+
