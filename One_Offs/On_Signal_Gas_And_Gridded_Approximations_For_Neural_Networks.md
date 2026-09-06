@@ -102,10 +102,10 @@ Individual microscopic events are insufficient to constitute the effective objec
 preserve/reinforce a common structure rather than destroying it. Microstates can collectively produce a mode that isnt particularly 
 meaninful to any individual microstate. But within this there are two important regimes
 Averaging: This suppresses noise, more a feature of the noise canceling itself out
-Averages suppress noise $\frac{1}{N} \sigma_i{x_i}$
+Averages suppress noise $\frac{1}{N} \Sigma_i{x_i}$
 Emergence/Coherence: This enhances signal, its less about noise canceling out and more about the signal or mean. reinforcing itself,
-in fact, noise actively destroys it from forming(unlike the averaging where the noise cancels itself out, here the noise (like crystal defects), works to prevent the sharp signal from cohering. interfers with its ability to effectively add.
-Emergence/coherence: $\sum_i{A_i e^{i \phi_i}}.
+in fact, noise actively destroys it from forming(unlike the averaging where the noise cancels itself out, here the noise (like crystal defects), works to prevent the sharp signal from cohering. interfers with its ability to effectively add.  
+Emergence/coherence: $\Sigma_i{A_i e^{i \phi_i}}.
 
 
 "Unscattering" is more interesting when it points towards the condition of the second.
