@@ -11,7 +11,7 @@ We take a leaf from the mind of Georg Cantor, define a transcendental-like goal 
 
 You are free to disagree with some of the questions here but you would find it quite hard to disagree with all of them. Once we can intersect and agree what the system must be capable of allowing for, it will help to order our thinking on what architecture the child machine must necessarily have.
 
-## Brief thoughts and extensions on Turings interrogator problem..
+## Brief thoughts on Turings interrogator problem...
 This doesnt quite belong here and I will be doing a much more targeted write-up elsewhere if i get the time, so i will discuss it breifly, my particular mind on it that is.
 
 ## Introduction
