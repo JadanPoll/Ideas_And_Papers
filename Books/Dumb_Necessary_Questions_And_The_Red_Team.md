@@ -56,8 +56,11 @@ Why must intelligence be able to do basic arithmetic, are there equally apprecia
 Why do some specialize and care extraordinarily about mathematics for mathematics sake?
 
 Q: Why does an intelligence get bored?
+
 Q: Why does an intelligence care if it is intelligent?
+
 Q: Why does it matter that an intelligence learns language? English?, how does language even evolve in the first place? Why must implicit stuff like body language or seeing expression be available?
+
 Q:Does deception in agents push the agents to evolve higher orders of intelligence? That is modelling an agent being deceptive itself or incorporating the deception itself(in the game/competition sense)?
 
 
