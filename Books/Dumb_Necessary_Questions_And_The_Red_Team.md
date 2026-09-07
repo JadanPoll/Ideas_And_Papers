@@ -1,6 +1,7 @@
+This is an important book.
+
+
 Basically my the fundamental book of what intelligent must necessarily be capable of an why, it is simply a book of questions
-
-
 ## Preface
 
 To be future facing for the belief in the value of this book, i seek to make this book in some way so as to be easily indexed by an algorithm extracting or LLM answering a question set
