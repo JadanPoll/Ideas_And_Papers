@@ -85,6 +85,17 @@ Why do some specialize and care extraordinarily about mathematics for mathematic
 # Natural Questions of the Eye of the Mind
 Preface: The simplest way to preface this would be "matters of consciousness". However i refrain from using the word consciousness because, in every treatment of it in the past, no matter how disciplined the scientific mind, it is much too mystical.
 If the best scientific minds fail in any adequacy to elaborate a scientific means or even method for determining it then for what business do I write on it? I don't know. But it can not be avoided and so I continue. 
+
+To expand on later:
+did federico faggin not write a book on intelligence and consciousness?
+
+my response to him right now "before i read the book" would be, okay, fine, lets say consciousness is quantum, what prevents us from creating an equivalent effective quasiparticle of consciousness
+
+yes, after all, if it is quantum then it probably admits itself to mathematics, and if it admits itself to the games of mathematics that drastically limits its professed mystical abilities
+
+yes, that is the kind of shrewd reduction move von Neumann would have done. im learning from the goatt
+
+
 Q: Why does an intelligence get bored?
 
 Q: Why does an intelligence care if it is intelligent?
