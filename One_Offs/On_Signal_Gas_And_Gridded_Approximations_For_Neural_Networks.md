@@ -193,7 +193,7 @@ MP: Under the admissible or attentional context(like a correct or non-entirely w
 PS: Outside the "baked in intutiion structure in the weights", can rapidly explore and evaluate many hypothesis and alternative formulations and to much greater dxepths, "simply following their nose wherever it is initially pointed".
 
 Chatgpt formulated some clear english to my thoughts on this:
-MP might be extraordinarily good at finding the basin; PS is extraordinarily good at exploring the basin's interior(especially determining if the found basin is quiet wrong actually, or fails under certain "conditions").
+MP might be extraordinarily good at finding the basin; PS is extraordinarily good at exploring the basin's interior(especially determining if the found basin is quietly(or alternatively quite!) wrong , or fails under certain "conditions").
 
 When working in conjunction:
 MP supplies admissibility; PS supplies extensibility and rigour and can certify limitations(explore the basin at the edge of its city walls)
