@@ -76,6 +76,8 @@ Why must intelligence be able to do basic arithmetic, are there equally apprecia
 Why do some specialize and care extraordinarily about mathematics for mathematics sake?
 
 # Natural Questions of the Eye of the Mind
+Preface: The simplest way to preface this would be "matters of consciousness". However i refrain from using the word consciousness because, in every treatment of it in the past, no matter how disciplined the scientific mind, it is much too mystical.
+If the best scientific minds fail in any adequacy to elaborate a scientific means or even method for determining it then for what business do I write on it? I don't know. But it can not be avoided and so I continue. 
 Q: Why does an intelligence get bored?
 
 Q: Why does an intelligence care if it is intelligent?
