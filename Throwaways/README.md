@@ -1,4 +1,5 @@
 These are throwaway thoughts. 
 
-Musing my mind had but (fortunately for myself) did not become obsessed with.
+Musing my mind had but did not become obsessed with(fortunately for myself)
+
 I have thrown them into the bin.
