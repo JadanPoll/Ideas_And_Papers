@@ -22,11 +22,13 @@ no im saying this much is obvious, why dont companies do it? fundamental scienti
 hmm, i think it will happen in some shape or form. i think that my idea is a luxury of once we solve the "hard" problem of getting LLMs right. many clever researchers will then realize this especially when pondering how to get fundamentally interesting stuff once they have millions and even billions using the model.
 
 
-In short, it is not, not a complaint box.
-
 yes. surely AI researchers have realized this will be a clever way to finally harvest more ramanujans once we solve the hard problem of right now.. no, the reward cant be financial? i don't know, i feel like financial rewards get in the way of genuine fundamental curiousity. like yes financial rewards might better eke out the edge case minds or "hackers" but it will drown out the edge of the edge cases
 
 
 no. look, lets approach this from a science perspective yeah? scinece is open to everyone and any curious minds, most especially children can investigate it. think fenyman. he doesn't care just about what the most complex minds think, he cares what the genuinely curious minds think, even if he might no the answer. For me, the curiousty of a child about the world and science is a lot more "fascinating". the expert's curiousity might be "interesting", a child curiousity is "fascinating" to see, both the child and their question, not just the question
 
 now that i don't know. i do have a few ideas on that but im very uncertain about them, even worse i cant tell you why those ideas with clarity so i will reserve my opinions
+
+
+
+In short, it is "not, not a complaint box".
