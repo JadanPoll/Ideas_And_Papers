@@ -5,6 +5,8 @@ Basically my the fundamental book of what intelligent must necessarily be capabl
 To be future facing for the belief in the value of this book, i seek to make this book in some way so as to be easily indexed by an algorithm extracting or LLM answering a question set
 Will type out ideas as fast as I am graced with them and try my hand at a suitable formatting later.
 
+Turing horrifyingly underspecifies what architecture the child machine should have besides having an otherwise brilliant intuition and formulation on universal computing machines. Even worse, this underlying architecture surely would very and have many different thoughts on how the child machine would be implemented. 
+Instead of answering what the architecture must be, I rather list out what it must be able to do. Or what "intelligence" must be able to do. You are free to disagree with some of the questions here but you would find it quite hard to disagree with all of them. Once we can intersect and agree what the architecture must be able to do, then it orders out thinking on what architecture the child machine must necessarily have.
 ## Introduction
 This is by all means meant to be a child book in foolish curiosity. By all rights it's a foolish book. I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book,
 I would be purposefully taking the dumbest questions out there and answer them by graduated grade level, in fact I hope to feed this into a website so as to easy represent the questions and easily append the questions to this database.
