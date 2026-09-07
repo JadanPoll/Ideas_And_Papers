@@ -6,9 +6,13 @@ To be future facing for the belief in the value of this book, i seek to make thi
 Will type out ideas as fast as I am graced with them and try my hand at a suitable formatting later.
 
 Turing horrifyingly underspecifies what architecture the child machine should have besides having an otherwise brilliant intuition and formulation on universal computing machines. Even worse, this underlying architecture surely would very and have many different thoughts on how the child machine would be implemented. 
-Instead of answering what the architecture must be, I rather list out what it must be able to do. Or what "intelligence" must be able to do. You are free to disagree with some of the questions here but you would find it quite hard to disagree with all of them. Once we can intersect and agree what the architecture must be able to do, then it orders out thinking on what architecture the child machine must necessarily have.
-
+Instead of answering what the architecture must be, I rather list out what it must be able to do. Or what "intelligence" must necessarily be capable of. 
 We take a leaf from the mind of Georg Cantor, define a transcendental-like goal not by what it is, but what it can't be and what it must be able to do.
+
+You are free to disagree with some of the questions here but you would find it quite hard to disagree with all of them. Once we can intersect and agree what the system must be capable of allowing for, it will help to order our thinking on what architecture the child machine must necessarily have.
+
+## Brief thoughts and extensions on Turings interrogator problem..
+This doesnt quite belong here and I will be doing a much more targeted write-up elsewhere if i get the time, so i will discuss it breifly, my particular mind on it that is.
 
 ## Introduction
 This is by all means meant to be a child book in foolish curiosity. By all rights it's a foolish book. I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book,
