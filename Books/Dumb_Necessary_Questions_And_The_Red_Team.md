@@ -95,6 +95,11 @@ Why should intelligence be able to simulate a conversation?
 
 
 # Questions Motivated Of Various Subjects
+## Natural Questions of Language
+
+## Natural Questions of Mathematics
+
+## Natural Questions of Philosphy
 
 # Questions about Feeding Intelligence Questions itself
 Q: Say I feed an intelligence question A, gets its response and feed it question B and get its response. Should it widly differ from if I instead fed it question B and then question A(assuming i tried to make the questions wholly unrelated)?
