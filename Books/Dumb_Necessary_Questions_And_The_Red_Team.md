@@ -34,37 +34,39 @@ suppositions as well as much free time
 
 ## Questions
 
-This is the very first question I deem necessaryL
-  Why is the sky blue? 
+This is the very first question I deem necessary
+Q: Why is the sky blue? 
+
+I use T instead of A, because my answers to them are certainly not answers. There are my thinking on the matter and they must necessarily evolve as and when I review and gain increasing clarity.
 
 These are the red-team questions i deem necessary with regards to that:
-  Why must one care why the sky is blue? Would it matter much if it was green instead?
+RT: Why must one care why the sky is blue? Would it matter much if it was green instead?
 
 And from these if i have various intuitions on the answers it will follow in grade levels
 
 I suppose because this would eventually be a database I should have some kind of id system and definite structure so a program can easily id it, as well as for automated categorization and reorganization
 
 
-Why must an intelligence care for mathematics?
-Practicality of counting, estimation.
-But then why introduce stuff like symbolic algebra? Language is almost certainly more efficient.
+Q: Why must an intelligence care for mathematics?
+T: Practicality of counting, estimation.
+Q: But then why introduce stuff like symbolic algebra? Language is almost certainly more efficient.
 
 
 Why must intelligence be able to do basic arithmetic, are there equally appreciable alternative?
 Why do some specialize and care extraordinarily about mathematics for mathematics sake?
 
-Why does an intelligence get bored?
-Why does an intelligence care if it is intelligent?
-Why does it matter that an intelligence learns language? English?, how does language even evolve in the first place? Why must implicit stuff like body language or seeing expression be available?
-Does deception in agents push the agents to evolve higher orders of intelligence? That is modelling an agent being deceptive itself or incorporating the deception itself(in the game/competition sense)?
+Q: Why does an intelligence get bored?
+Q: Why does an intelligence care if it is intelligent?
+Q: Why does it matter that an intelligence learns language? English?, how does language even evolve in the first place? Why must implicit stuff like body language or seeing expression be available?
+Q:Does deception in agents push the agents to evolve higher orders of intelligence? That is modelling an agent being deceptive itself or incorporating the deception itself(in the game/competition sense)?
 
 
-Why must one play games? Any kind of game?
-Learning about competition in a fast and safe environment
+Q: Why must one play games? Any kind of game?
+T: Learning about competition in a fast and safe environment
 
 
-Why should agents care what other agents “look” like?
-Cheap distinguishing information
+Q: Why should agents care what other agents “look” like?
+T: Cheap distinguishing information
 Why not exhibit a particularly odd behavioru th other one is forced to respond to to better infer its dynamics?
 Potential for irreversibiltty like irreversible damaging info to self of what the other agent then infers
 Why would agents call such behaviour pscopathic or not encourage this? Intentionally behaving outside of the norm to maximally infer others agents dynamics since you would likely be behaving outside their own defaults and training data?
