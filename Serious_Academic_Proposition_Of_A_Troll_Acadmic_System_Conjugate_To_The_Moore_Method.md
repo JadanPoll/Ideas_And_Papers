@@ -186,7 +186,7 @@ $$
 
 Eventually, something even more interesting happens: \(P\) itself begins generating descendants.
 
-$$
+$
 P_{\mathrm{geometry}}
 \rightarrow
 \{
@@ -195,7 +195,7 @@ P_{\mathrm{projective}},
 P_{\mathrm{symmetry}},
 P_{\mathrm{curvature}},\ldots
 \}.
-$$
+$
 
 Now you no longer merely “know geometry.” Geometry has become an **organizing gene family** from which the appropriate specialization can express itself depending on the environment.
 
