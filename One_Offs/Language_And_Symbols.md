@@ -106,3 +106,8 @@ but eventually A -> e. in fact, your eyes can quickly skip maybe c or d because 
 
 Eventually after reading your insights you may realize, "I consistently fail to recognize where conservation or differentail equations might be admissible to explore an argument". Then one simply can do a targetted burst of "50 widly diferent physical/economical or even bological and spatial situations whose underlying mathematical structure is that specific tool or symbolic domain, as well as (and this is important and even doable with LLMs today, questions that try to "hide" or make it "non-obvious" that it might be admissible"
 
+
+
+In a 2-hour session of using the German book i've found its about operating near the speeed of thought, click on highklight link, reverso pops up,
+hear what it sounds like. Spatial, so i can quickly see and choose what I think I'd be weak in.
+Binding, Codebook or sheet of paper to write down patterns you are noting and simply a game of statistics with the right binding.
