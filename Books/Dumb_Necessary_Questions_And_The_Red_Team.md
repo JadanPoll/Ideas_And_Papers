@@ -106,7 +106,7 @@ Why should intelligence be able to simulate a conversation?
 
 # Questions Motivated Of Various Subjects
 ## Natural Questions of Language
-
+Preface: Modern mechanical intelligence found much success in accomplishing human-admissible linguistic capabilities simply using probabilites as predicted as early as Claude Shannon. To the average human this sounds nonsensically reductive. Generations of schools of thought about the mysticness of language reduce to just probabilites by a mere machine. This motivates clarity and explicitized questions about language including things from following rote commands from an unreliable authority to the excitement or joy of satisfaction from a particularly clever poem
 ## Natural Questions of Mathematics
 
 ## Natural Questions of Philosphy
