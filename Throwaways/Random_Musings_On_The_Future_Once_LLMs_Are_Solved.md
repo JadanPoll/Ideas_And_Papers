@@ -22,6 +22,8 @@ no im saying this much is obvious, why dont companies do it? fundamental scienti
 hmm, i think it will happen in some shape or form. i think that my idea is a luxury of once we solve the "hard" problem of getting LLMs right. many clever researchers will then realize this especially when pondering how to get fundamentally interesting stuff once they have millions and even billions using the model.
 
 
+In short, it is not, not a complaint box.
+
 yes. surely AI researchers have realized this will be a clever way to finally harvest more ramanujans once we solve the hard problem of right now.. no, the reward cant be financial? i don't know, i feel like financial rewards get in the way of genuine fundamental curiousity. like yes financial rewards might better eke out the edge case minds or "hackers" but it will drown out the edge of the edge cases
 
 
