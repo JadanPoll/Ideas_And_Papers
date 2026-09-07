@@ -185,3 +185,9 @@ My initial response: oh wow. that is a very complex interesting regime. That is 
 A short from gemini which i thought was interesting(cropping out the stuff it said in response to my question):
 "a system that doesn't just minimize the energy required to reach a goal; it minimizes the energy required to be the system. It is a beautiful, recursive loop where the board is actively learning how to be a better board while the pieces are still moving."
 
+
+Unrelated but I have to add it here for fear I lose the thought!
+In response to a section of Von Neumann's book on the Computer and the Brain.
+My mind on an interesting critical difference between Massively Parallel(MP) vs Powerfully serial intelligence(PS).
+MP: Under the admissible or attentional context(like a correct or non-entirely wrong hypothesis <directionally speaking>),, the candidates and clarifications "evaluate" themselves and the answer "comes to you". it is analogistically speaking, non-deterministic complexity class like
+PS: Outside the "baked in intutiion structure in the weights", can rapidly explore and evaluate many hypothesis and alternative formulations and to much greater dxepths, "simply following their nose".
