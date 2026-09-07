@@ -13,6 +13,8 @@ You are free to disagree with some of the questions here but you would find it q
 ## Brief thoughts on Turings interrogator problem...
 This doesnt quite belong here and I will be doing a much more targeted write-up elsewhere if i get the time, so i will discuss it breifly, my particular mind on it that is.
 
+Take this particular problem with the Turing test, the turing test can be fundamentally mathemically reduced to boundary conditions(questions) and specifying, hunting or filtering functions that obey those boundary conditions. Harder questions establish intra boundary conditions etc, but here's the problem, in mathematics, there are countable many(since we are being nice) functions that can fulfill any boundary conditions we set and yet have none of the epistemological quantities we care about like being differentiable(eg: the machine is genuinely reasoning much more than spewing recombinations of memorizations from question leakage etc)
+
 ## Introduction
 By all means leave. This is a child's book in curiosity. By all rights it's a foolish book. TO write this to an effective capacity I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book(after all I am grown and so it takes effort to think like a child these days, much less remember what things we like when I was a child). I will even be reading parts of the Bible, because this is a Solomonesc task, in fact Solomon wrote the book like this before me - ramblings of someone with time to think basic going-ons.
 
