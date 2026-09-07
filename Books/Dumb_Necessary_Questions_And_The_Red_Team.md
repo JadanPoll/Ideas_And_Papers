@@ -49,8 +49,12 @@ suppositions as well as much free time
 
 
 # Natural Questions of The External World
-This is the very first question I deem necessary
+Preface:
 Q: Why is the sky blue? 
+
+This and many other questions would be asked here. Not because mechanical intelligence obviously depends on being able to answer them, but to tease out the boundary of implicit and intrinsic understanding vs learned facts and perhaps more importantly if intrinsic understanding is even necessary to any capacity if one can simply learn the facts.
+
+Since this is the first of the categories it is useful to put this here:
 
 I use T instead of A, because my answers to them are certainly not answers. There are my thinking on the matter and they must necessarily evolve as and when I review and gain increasing clarity.
 
