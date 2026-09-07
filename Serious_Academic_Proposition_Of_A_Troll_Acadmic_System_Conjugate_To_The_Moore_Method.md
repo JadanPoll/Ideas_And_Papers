@@ -170,7 +170,7 @@ And that makes your phrase **“catastrophic failure”** defensible in the cont
 
 So \(n\) shouldn't just increase knowledge inside \(P\). It should change its topology:
 
-$ P^{(1)} = \text{isolated node} $
+$P^{(1)} = \text{isolated node} $
 
 becomes
 
