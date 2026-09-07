@@ -15,7 +15,7 @@ You are free to disagree with some of the questions here but you would find it q
 This doesnt quite belong here and I will be doing a much more targeted write-up elsewhere if i get the time, so i will discuss it breifly, my particular mind on it that is.
 
 ## Introduction
-This is by all means meant to be a child book in foolish curiosity. By all rights it's a foolish book. I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book,
+By all means leave. This is a childs book in foolish curiosity. By all rights it's a foolish book. I will be rewatching some of the shows I used to watch growing up to learn language for inspiration for this book,
 I would be purposefully taking the dumbest questions out there and answer them by graduated grade level, in fact I hope to feed this into a website so as to easy represent the questions and easily append the questions to this database.
 In fact this should have been a database.
 
