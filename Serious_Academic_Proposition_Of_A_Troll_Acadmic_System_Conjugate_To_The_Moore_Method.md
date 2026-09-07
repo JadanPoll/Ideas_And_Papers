@@ -174,11 +174,7 @@ So \(n\) shouldn't just increase knowledge inside \(P\). It should change its to
 
 becomes
 
-$$
-P^{(n)}
-=
-\text{densely connected functional object}.
-$$
+$P^{(n)}=\text{densely connected functional object}.$
 
 Eventually, something even more interesting happens: \(P\) itself begins generating descendants.
 
