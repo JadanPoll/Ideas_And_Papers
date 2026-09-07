@@ -35,6 +35,8 @@ suppositions as well as much free time
 
 ## Questions
 
+
+# Questions of The External World
 This is the very first question I deem necessary
 Q: Why is the sky blue? 
 
@@ -48,6 +50,7 @@ And from these if i have various intuitions on the answers it will follow in gra
 I suppose because this would eventually be a database I should have some kind of id system and definite structure so a program can easily id it, as well as for automated categorization and reorganization
 
 
+# Questions of External Dynamics
 Q: Why must an intelligence care for mathematics?
 T: Practicality of counting, estimation.
 Q: But then why introduce stuff like symbolic algebra? Language is almost certainly more efficient.
@@ -56,6 +59,7 @@ Q: But then why introduce stuff like symbolic algebra? Language is almost certai
 Why must intelligence be able to do basic arithmetic, are there equally appreciable alternative?
 Why do some specialize and care extraordinarily about mathematics for mathematics sake?
 
+# Questions of the Eye of the Mind
 Q: Why does an intelligence get bored?
 
 Q: Why does an intelligence care if it is intelligent?
