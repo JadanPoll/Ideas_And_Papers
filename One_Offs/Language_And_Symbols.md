@@ -111,4 +111,4 @@ Eventually after reading your insights you may realize, "I consistently fail to 
 In a 2-hour session of using the German book i've found its about operating near the speeed of thought, click on highklight link, reverso pops up,
 hear what it sounds like. Spatial, so i can quickly see and choose what I think I'd be weak in.
 Binding, Codebook or sheet of paper to write down patterns you are noting and simply a game of statistics with the right binding.
-Have https://www.youtube.com/watch?v=VsqB8617t5w&list=RDVsqB8617t5w&index=1 Kid Laroi playing and just tapping my leg nodding to the music, had juice wrld eariler too, basically its basically me grinding but im barely conscious or efforting with it..
+Have https://www.youtube.com/watch?v=VsqB8617t5w&list=RDVsqB8617t5w&index=1 Kid Laroi playing and just tapping my leg nodding to the music, had juice wrld eariler too, basically its basically me grinding but I feel I'm barely conscious or efforting with it..
