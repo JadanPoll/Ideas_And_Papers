@@ -83,7 +83,11 @@ Why should intelligence be able to simulate a conversation?
 ## Ideas
 note to self: by the way, the idea of red-teaming includes - what would asking better question be and why (helps serve as a better reflection task to improve ones own thinking and quality of questions)
 
+Need an organizing framework so i can ask lots more questions. example organizing framework would be something like
+1. What do you find impressive about intelligence
+2. Map out something you think an intelligence fails to do or does inefficiently etc.
 
+Basically some way so every single day, even when im "dry" of questions i can keep generating relevant questions and answering them how I "think" intelligence answers them or even finds them relevant.
 
 
 
