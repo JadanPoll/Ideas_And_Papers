@@ -1,6 +1,6 @@
 
 # About This Book
-I am quite conflicted on how to write this up, since i started in a completely different question and then used my exploraitions from that to sort of force this idea. To be fair to myself, i will show the initial questions being asked and how i arrived here, and then you judge me on if i should have omitted the first instance.
+I am quite conflicted on how to write this up, since i started in a completely different question and then used my exploraitions from that to sort of force this idea. To be fair to myself, i will show the initial questions being asked and how i arrived here, and then you may judge me on if i should have omitted the first instance, saving you quite a bit of time.
 
 I would like to call this the Amankwain Programme, to intuit on what the minimal architecture must be for intelligent systems from first principles, 
 heavily inspired by the want to respect the wishes of Alan Turing with regards to the Child Machine.
