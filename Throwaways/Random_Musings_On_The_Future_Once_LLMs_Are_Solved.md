@@ -1,6 +1,8 @@
 Random Throwaway Musings On The Future Once LLMs Are A "Solved' Business
 
-Ive stripped Gemini Web's "Responses" and preserved only my questions and thoughts to keep the "freshness" of the insight
+[Ive stripped Gemini Web's "Responses" and preserved only my questions and thoughts to keep the "freshness" of the insight]
+
+
 why don't LLM companies have a "complaint box, to auto collect people's complaints or misgivings about an AI response and hence gather ricch info on what their model needs?
 
 
