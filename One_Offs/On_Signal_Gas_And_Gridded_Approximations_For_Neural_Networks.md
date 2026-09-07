@@ -191,3 +191,9 @@ In response to a section of Von Neumann's book on the Computer and the Brain.
 My mind on an interesting critical difference between Massively Parallel(MP) vs Powerfully serial intelligence(PS).
 MP: Under the admissible or attentional context(like a correct or non-entirely wrong hypothesis <directionally speaking>),, the candidates and clarifications "evaluate" themselves and the answer "comes to you". it is analogistically speaking, non-deterministic complexity class like
 PS: Outside the "baked in intutiion structure in the weights", can rapidly explore and evaluate many hypothesis and alternative formulations and to much greater dxepths, "simply following their nose wherever it is initially pointed".
+
+Chatgpt formulated some clear english to my thoughts on this:
+MP might be extraordinarily good at finding the basin; PS is extraordinarily good at exploring the basin's interior(especially determining if the found basin is quiet wrong actually, or fails under certain "conditions").
+
+When working in conjunction:
+MP supplies admissibility; PS supplies extensibility and rigour.
