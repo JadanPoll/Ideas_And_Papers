@@ -1,5 +1,3 @@
-This is an important book.
-
 
 Basically my the fundamental book of what intelligent must necessarily be capable of an why, it is simply a book of questions
 ## Preface
