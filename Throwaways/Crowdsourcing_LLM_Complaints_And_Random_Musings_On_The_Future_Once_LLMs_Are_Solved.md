@@ -1,4 +1,8 @@
-Random Throwaway Musings On The Future Once LLMs Are A "Solved' Business
+This thought is a throwaway. Me crumpling the proverbial digital paper and throwing it straight into the bin.
+
+
+
+Crowdsourcing LLM Complaints And Random Throwaway Musings On The Future Once LLMs Are A "Solved" Business
 
 [Ive stripped Gemini Web's "Responses" and preserved only my questions and thoughts to keep the "freshness" of the insight]
 
