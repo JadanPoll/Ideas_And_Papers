@@ -4,8 +4,7 @@ It is for this tragic situation that mind reads widely and engages broadly.
 
 
 To that end I have an idea, of a few ideas. But the critical problem is making use of datasets like this in somewhere:
-https://huggingface.co/datasets/introvoyz041/stem-reasoning-complex
-
+](https://huggingface.co/datasets/galaxyMindAiLabs/stem-reasoning-complex/viewer/default/train?row=6)
 
 
 By the way this is the search engine I use for it
