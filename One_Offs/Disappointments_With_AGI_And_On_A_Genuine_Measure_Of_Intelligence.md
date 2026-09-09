@@ -1,5 +1,14 @@
 
-# Sad Disappointments With AGI and on a proper measure for intelligence
+# Sad Disappointments With AGI and on a species-agnostic measure for cleverness
+
+hmm should i use intelligence or cleverness? i think cleverness sounds more invariant to ones abilites while intelligence is more absolute as a state rather then an intrinsic relative metric
+
+The use of cleverness allows us to infer better architecutre ideas by considering other animals and their own ARC-AGI relative tassks
+
+Respons to von Neumann and Francis CHollet.
+
+If AGI is too at all be take seriously, that is, if we humans truly think there is intelligence that surpasses us, such an intelligence must hold certain obligations to itself
+and cannot look down unequivocably with pride.
 
 How intelligence should estimate its own abilites relative to itself and not with pride looking down on an obviously limited species.
 At what point must AGI be respected as a species and as such such a species must have an obligation to ourselves
