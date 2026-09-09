@@ -21,6 +21,10 @@ How intelligence should estimate its own abilites relative to itself and not wit
 At what point must AGI be respected as a species and as such such a species must have an obligation to ourselves
 The most optimum "abilties or influecne given limitations" and what the best archicture must be.
 
+
+Two things:
+a. Having a need to acheive a good responsible ratio(competition etc)
+b. Acheiving a good ratio despite no pressing need and even if the answer is non-obvious to the species (eg: science for the sake of science simply because one can do science: eg: going to space)
 On MP vs SP Architecture
 The better question is which architecture is better suited to be cleser to the mathematical optimum ratio
 The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
