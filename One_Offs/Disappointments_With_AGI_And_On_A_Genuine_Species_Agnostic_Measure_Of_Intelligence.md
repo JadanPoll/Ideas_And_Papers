@@ -30,7 +30,7 @@ a should be the scrystalization of b, that is useless science just for the sake 
 
 On MP vs SP Architecture
 The better question is which architecture is better suited to be cleser to the mathematical optimum ratio
-The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
+The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematicallyand what mathematical architectures can actually realize that kind of effeciency(outside of probabilites)
 
 Other relevant denominators: eg: resource constraints, difficulty in alignment for large populations(pendulum or brownian motion like swings in interests). Because of this, we will limit our concerns to 
 more individual effect of the species while still consering stuff like collective infrastructure like internet, communcations and open-source.
