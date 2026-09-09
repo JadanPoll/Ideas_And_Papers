@@ -1,7 +1,7 @@
 
 # Sad Disappointments With AGI and on a species-agnostic measure for cleverness
 
-One cannot take pride in knowing an answer yet failing to apply it where relevant.
+One cannot take pride in knowing an answer yet invaiably failing to apply it or recognize where it's relevant
 
 Sciences secrets are utility is exponential so a proper intelligence, past a certain point(where they can do abstractions and manipulations of science and mathematics) should be able to far and wide pay for the 
 resources its species consumes.
