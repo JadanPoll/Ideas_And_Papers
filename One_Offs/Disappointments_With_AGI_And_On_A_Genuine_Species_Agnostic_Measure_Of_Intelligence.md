@@ -22,7 +22,7 @@ At what point must AGI be respected as a species and as such such a species must
 The most optimum "abilties or influecne given limitations" and what the best archicture must be.
 
 On MP vs SP Architecture
-
+The better question is which architecture is better suited to be cleser to the mathematical optimum ratio
 The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
 
 Given these discussions, it is possible we are still a generation ahead of our time if one considers AGI as when it can realistically be considered its own species. If it is then a species, 
