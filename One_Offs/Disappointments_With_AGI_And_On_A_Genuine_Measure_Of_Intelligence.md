@@ -1,5 +1,5 @@
 
-# Disappointments With AGI and on a property measure for intelligence
+# Disappointments With AGI and on a proper measure for intelligence
 
 The most optimum "abilties or influecne given limitations" and what the best archicture must be.
 
