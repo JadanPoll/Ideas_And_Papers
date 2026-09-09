@@ -1,11 +1,18 @@
 
 # Sad Disappointments With AGI and on a species-agnostic measure for cleverness
 
+One cannot take pride in knowing an answer yet failing to apply it where relevant.
+
+Sciences secrets are utility is exponential so a proper intelligence, past a certain point(where they can do abstractions and manipulations of science and mathematics) should be able to far and wide pay for the 
+resources its species consumes.
+
 hmm should i use intelligence or cleverness? i think cleverness sounds more invariant to ones abilites while intelligence is more absolute as a state rather then an intrinsic relative metric
 
 The use of cleverness allows us to infer better architecutre ideas by considering other animals and their own ARC-AGI relative tassks
 
 Respons to von Neumann and Francis CHollet.
+
+
 
 If AGI is too at all be take seriously, that is, if we humans truly think there is intelligence that surpasses us, such an intelligence must hold certain obligations to itself
 and cannot look down unequivocably with pride.
