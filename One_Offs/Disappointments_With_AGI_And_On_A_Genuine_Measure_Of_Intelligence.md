@@ -1,5 +1,5 @@
 
-# Sad Disappointments With AGI and on a species-agnostic measure for cleverness
+# Sad disappointments With AGI and on a species-agnostic measure for cleverness
 
 One cannot take pride in knowing an answer yet invaiably failing to apply it or recognize where it's relevant
 
