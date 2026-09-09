@@ -24,7 +24,10 @@ The most optimum "abilties or influecne given limitations" and what the best arc
 
 Two things:
 a. Having a need to acheive a good responsible ratio(competition etc)
-b. Acheiving a good ratio despite no pressing need and even if the answer is non-obvious to the species (eg: science for the sake of science simply because one can do science: eg: going to space)
+b. Acheiving a good ratio despite no pressing need and even if the answer is non-obvious to the species (eg: science for the sake of science simply because one can do science: eg: going to space).
+
+a should be the scrystalization of b, that is useless science just for the sake of science crystalized by a, simply because of the dispersive alignment effects of large populations.
+
 On MP vs SP Architecture
 The better question is which architecture is better suited to be cleser to the mathematical optimum ratio
 The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
@@ -34,3 +37,7 @@ more individual effect of the species while still consering stuff like collectiv
 
 Given these discussions, it is possible we are still a generation ahead of our time if one considers AGI as when it can realistically be considered its own species. If it is then a species, 
 such a species has an obligation to itself and cannot look down with pride unequivocably across other species since no species can control the circumstances or unfortunacies of its own birth.
+
+Current a goals center around a, the need of mechanical intelligences to just about eke out the human,
+Concernig b, science for the sake of science simply because one can do science. An intelligence doesnt gets any praise or admiration for simply being better, it must have a really good ratio as welll, considering other factors too as well like dispersed alignments
+of interests etc.
