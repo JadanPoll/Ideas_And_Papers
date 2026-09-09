@@ -29,7 +29,8 @@ On MP vs SP Architecture
 The better question is which architecture is better suited to be cleser to the mathematical optimum ratio
 The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
 
-Other relevant denominators: eg: resource constraints, difficulty in alignment for large populations(pendulum or brownian motion like swings in interests)
+Other relevant denominators: eg: resource constraints, difficulty in alignment for large populations(pendulum or brownian motion like swings in interests). Because of this, we will limit our concerns to 
+more individual effect of the species while still consering stuff like collective infrastructure like internet, communcations and open-source.
 
 Given these discussions, it is possible we are still a generation ahead of our time if one considers AGI as when it can realistically be considered its own species. If it is then a species, 
 such a species has an obligation to itself and cannot look down with pride unequivocably across other species since no species can control the circumstances or unfortunacies of its own birth.
