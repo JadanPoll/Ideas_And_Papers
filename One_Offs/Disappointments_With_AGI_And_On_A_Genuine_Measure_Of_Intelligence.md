@@ -2,8 +2,12 @@
 # Sad Disappointments With AGI and on a proper measure for intelligence
 
 How intelligence should estimate its own abilites relative to itself and not with pride looking down on an obviously limited species.
+At what point must AGI be respected as a species and as such such a species must have an obligation to ourselves
 The most optimum "abilties or influecne given limitations" and what the best archicture must be.
 
 On MP vs SP Architecture
 
 The mathematical optimuum and whether humans or machine should be better at accomplishing that ratio mathematically
+
+Given these discussions, it is possible we are still a generation ahead of our time if one considers AGI as when it can realistically be considered its own species. If it is then a species, 
+such a species has an obligation to itself and cannot look down with pride unequivocably across other species since no species can control the circumstances or unfortunacies of its own birth.
