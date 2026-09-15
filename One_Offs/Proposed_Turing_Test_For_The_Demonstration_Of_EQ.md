@@ -22,3 +22,7 @@ but the question is for 2, how the hell does one consistently train on friend B'
 
 Concerning test 1, no the problem if the organism under test is sufficiently old enoug(woww, i just reduced the human to organism), any AI has enormous IQ abilities at its disposal that EQ tests simply become vacuous to clean interpretation for test 1.
 that is the Wisdom problem
+
+concerning 1, no the problem if the organism under test is sufficiently old enoug(woww, i just reduced the human to organism), any AI has enormous IQ abilities at its disposal that EQ tests simply become vacuous to clean interpretation for test 1.
+
+A good question is if animals can communicate entirely on the EQ tonal register since they dont have highy vocal tracts not brains for language like we humans do.
