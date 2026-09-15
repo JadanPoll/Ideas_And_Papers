@@ -18,3 +18,7 @@ yes and for test 3, so solve the data sharing problem should the AI simply look 
 
 
 but the question is for 2, how the hell does one consistently train on friend B's personality? i guess part of the thesis is we can copy friend B's personality cmpletely cause friend B is likely not as unique as they think they are, we simply need like a "dictionary search key", or minimal data to then find up their exact matching personality profille somewhere in a global dataset of text and conversations such that we can literally just model them
+
+
+Concerning test 1, no the problem if the organism under test is sufficiently old enoug(woww, i just reduced the human to organism), any AI has enormous IQ abilities at its disposal that EQ tests simply become vacuous to clean interpretation for test 1.
+that is the Wisdom problem
