@@ -12,3 +12,6 @@ because of this problem this appears to be a very poor test and should not be lo
 a. she needs to pick the friend
 b. she gets a payout if she wins the game and successfully identifies here friend, every additional question she needs to identify here friend will take some away from the prize pool
 c.  minor note, person A needs to submit a list of approved questions she would text before hand.. this would prevent problems where she might use overly personal information to determine with whom she's speaking with.
+
+
+yes and for test 3, so solve the data sharing problem should the AI simply look at the friends response, make its own response and we shuffle the order in which the person A sees it, or is that cheating for us giving us too much of an advantage. the idea is that friend A should identify freind B on the basis of EQ simply from the way  they respond similar to beta squads blindfold identify a person tests
