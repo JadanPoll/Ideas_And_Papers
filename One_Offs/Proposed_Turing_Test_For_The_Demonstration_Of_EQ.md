@@ -15,3 +15,6 @@ c.  minor note, person A needs to submit a list of approved questions she would 
 
 
 yes and for test 3, so solve the data sharing problem should the AI simply look at the friends response, make its own response and we shuffle the order in which the person A sees it, or is that cheating for us giving us too much of an advantage. the idea is that friend A should identify freind B on the basis of EQ simply from the way  they respond similar to beta squads blindfold identify a person tests
+
+
+but the question is for 2, how the hell does one consistently train on friend B's personality? i guess part of the thesis is we can copy friend B's personality cmpletely cause friend B is likely not as unique as they think they are, we simply need like a "dictionary search key", or minimal data to then find up their exact matching personality profille somewhere in a global dataset of text and conversations such that we can literally just model them
