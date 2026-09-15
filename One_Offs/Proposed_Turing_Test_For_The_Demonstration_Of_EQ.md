@@ -5,6 +5,8 @@ of apparent EQ in machine sbut not only that but that EQ signatures can even be 
 there is a strict need for this test to isolate IQ which is no questoin humans have quite lost the battle of versus EQ. in the future, we will refine these experiments hopefully in the directin of making in online  such as 3 to reduce commitment and time costs. 1 will be the hardest
 one to reduce to some online convenience. It should be noted that in these situations, the humans have an overwhelming advantage due to all the diverse as well as highly developed modalities of ways they have for demonstrating EQ vs the machine but we beleive the machine
 sufficient
+
+Ir
 1. take 5 babies and evlauate if an AI voice can pacify them better than human participants can. obviously humans participants have the overwheliming ability to touch and coax the babies
 2. Toddles are bickering over a problem and a blind test, humans try to solve th eproblem vs LLms, problem with this test is that it makes it hard to seperate a wise high IQ action taking by an LLM to pacify the fighting or disagreeing toddles than actual pacification.
 because of this problem this appears to be a very poor test and should not be looked favourably upn
@@ -26,3 +28,8 @@ that is the Wisdom problem
 concerning 1, no the problem if the organism under test is sufficiently old enoug(woww, i just reduced the human to organism), any AI has enormous IQ abilities at its disposal that EQ tests simply become vacuous to clean interpretation for test 1.
 
 A good question is if animals can communicate entirely on the EQ tonal register since they dont have highy vocal tracts not brains for language like we humans do.
+
+This proposed idea however faces two confouns:
+For one, lets address ways the AI may cheat cause if there's one thing frontier lab testing of AI has thought us these days, AI finds no end of ways to cheat the intented task under naive assumptions. Here we predict the intelligence masquerading itself EQ where given with the task "Make this upset child feel better", the AI can simply reason about child psychology can calculate an elaborate intervention which simply bypasses the sense of direct social sensitivtiy humans frequently use. We call this the Wisdom/IQ problem: A sufficiently intelligent system can arrive at an emotionally successful action without possessing the particular social competence intended to be meausred!
+
+
