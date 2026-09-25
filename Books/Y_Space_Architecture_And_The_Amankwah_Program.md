@@ -44,6 +44,16 @@ it occured to me this way which i will get to later.
 Once this idea had asserted itself it spawned off an 
 enduring chain of reasoning and exposition. 
 
+To tease out the argument i will make a 
+seperation on what we implicitly mean when we 
+bandwagon around magic terms like 
+"attaching meaning to something".
+
+Attentional meaning
+
+Implied meaning
+
+
 
 ### Our Findings on the ability to hide "savant" programmes
 
