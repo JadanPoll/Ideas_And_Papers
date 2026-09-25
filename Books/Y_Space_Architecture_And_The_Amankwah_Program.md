@@ -157,7 +157,14 @@ boundary behaviour is sufficient.
 
 Attentinal meaning is the meaning revealed by actively 
 interrogating a region(s) of the world model under a given 
-question or context
+question or context. we will refer to this with 
+the operator $Q(W)$. Whose effective english 
+description of function is using a particular 
+world model substrate $W$, given a particular question 
+$q$ must do three of three things
+select neighbourhood(s) + select resolution(s) + 
+interpret information( whether thats by selective contrasting or 
+realizing the admissible relations)
 
 ### Our Findings on the ability to hide "savant" programmes
 
