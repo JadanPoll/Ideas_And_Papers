@@ -37,7 +37,7 @@ of me but I really did wake up one day and decide
 that an idea i had, simply on the whim of inventing a 
 notation, RDM, must with all certainty actually 
 be a method of representing word models. 
-That world models and understanding not olybcan be 
+That world models and understanding not only can 
 but must be represented through fractal matrices. 
 There is a bit of an underlying reason as to why 
 it occured to me this way which i will get to later. 
