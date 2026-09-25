@@ -49,14 +49,20 @@ seperation on what we implicitly mean when we
 bandwagon around magic terms like 
 "attaching meaning to something".
 
-Attentional meaning 
+Attentional meaning - one can better externalize this definition by 
+thinking of it in terms of questions one would ask, observing how 
+specific neighbourhoods relate. As you can already tell, 
+this very wuickly becomes combinatoric as within this view 
+one can realize and consider variations, local relations 
+(being attentive and relationally inferring on and between various groups and 
+neughbouhoods
 
 
 . A good exploratory analogy be mapping to various
 ideas of the tunnel vision. The intwlligence is 
 aware of the specifics since the specifics lead to
 fine but relativelycl critical differences in the
-final answer or what is simply inferred.
+final answer or what is simply inferred. 
 
 Implied meaning - 
 I have to admit I'm a bit confused by my initial 
@@ -67,7 +73,11 @@ interpret what was likely intuiting on back then.
 In fear of losing something rich by shallow reinterpretation I will 
 restate what i said almost word for word and exposit on what i likely 
 actually meant a bit later, here's what I say:
-
+Implied: The self-recurring substructures as one goes 
+upward (or more global in neighbourhoods) that relates to the global 
+or eigenstructure that is, that is, the local field as
+you go upward increasing resembles, complements and/or supports the global 
+structure.
 
 This is very analogous to
 peripheral vision. The specifics dont really matter. 
