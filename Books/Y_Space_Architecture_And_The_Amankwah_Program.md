@@ -141,6 +141,22 @@ for computations and queries, dealing with
 actions of traversals, various unpackings to various levels, combinatopns and 
 synthesis, spatial regions of interest.
 
+I feel in general it should be obvious which one we
+ are referring to andn why,however i get the sense that in various 
+chapters it becomes important and unclear precisely 
+which one we are looking at, i will return here and device some simple notation. 
+
+Now to continue, let me share some basic agreeable 
+properties of R-matrix. Diffetent parts of th world 
+need not be expanded to the same depth. Deeply unpacked 
+regions only really suggest
+ "I currently need fone distinctions here" 
+or " this is the primary focus" while coarsened regions only suggest
+"for present purposes, the general and 
+boundary behaviour is sufficient.
+
+Attentinal meaning is the meaning revealed by actively 
+interrogating a region(s) of the world model
 
 ### Our Findings on the ability to hide "savant" programmes
 
