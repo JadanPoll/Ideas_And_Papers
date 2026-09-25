@@ -49,10 +49,20 @@ seperation on what we implicitly mean when we
 bandwagon around magic terms like 
 "attaching meaning to something".
 
-Attentional meaning
+Attentional meaning 
 
-Implied meaning
 
+. A good exploratory analogy be mapping to various
+ideas of the tunnel vision. The intwlligence is 
+aware of the specifics since the specifics lead to
+fine but relativelycl critical differences in the
+final answer or what is simply inferred.
+
+Implied meaning - 
+
+This is very analogous to
+peripheral vision. The specifics dont really matter. 
+In fact keepijg track of them is highly inefficient.
 
 
 ### Our Findings on the ability to hide "savant" programmes
