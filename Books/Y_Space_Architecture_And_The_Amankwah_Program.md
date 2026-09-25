@@ -88,7 +88,23 @@ This is very analogous to
 peripheral vision. The specifics dont really matter. 
 In fact keepijg track of them is highly inefficient.
 
-
+We will return to discussions of those 
+two a little later, for now we are essentially
+using recursive matrices as a representation 
+of understanding itself. This R-Matrix is 
+intuitively blocky-spatial neighboorhoods for 
+features with understanding arising 
+combinatorially or more specifically in hopes of 
+preventing future misunderstanding, underatanding arising as a 
+manner of synthesis of these blocks.  
+This R-matrix treatment for world models 
+allows us to quickly and easily access and ponder questions 
+like what can be unpacked, at what scale, under 
+which question and what structure persists without 
+being explocitly queried(implied) if said structure 
+were say blurred(sparse sampling) or quantized.
+.
+ 
 ### Our Findings on the ability to hide "savant" programmes
 
 ### Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
