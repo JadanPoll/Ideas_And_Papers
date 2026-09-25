@@ -166,6 +166,14 @@ select neighbourhood(s) + select resolution(s) +
 interpret information( whether thats by selective contrasting or 
 realizing the admissible relations)
 
+Suppose one asks:
+Why did the brodge collapse
+
+
+
+
+Another question one may ask:
+what color is the bird
 ### Our Findings on the ability to hide "savant" programmes
 
 ### Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
