@@ -1,6 +1,19 @@
 
 # About This Book
-I am quite conflicted on how to write this up, since i started in a completely different question and then used my exploraitions from that to sort of force this idea. To be fair to myself, i will show the initial questions being asked and how i arrived here, and then you may judge me on if i should have omitted the first instance, saving you quite a bit of time.
+I am quite conflicted on how to write this up. 
+I am apt to in a manner of curiosity ask about, clarify or 
+explore minor curious things that occur themselves to me. 
+In retrospect, these distractions almost always leads to thesis like 
+thoughts being pondered in the middle of the conversation of great 
+curious value to myself and must thus be penned down to realize its creative 
+implications much later on.
+I shall pen a quick summary of the initial arguments being offered 
+before eventually arriving at the central body of work. 
+
+# Preface
+
+To be fair to myself, 
+i will show the initial questions being asked and how i arrived here, and then you may judge me on if i should have omitted the first instance, saving you quite a bit of time.
 
 I would like to call this the Amankwain Programme, to intuit on what the minimal architecture must be for intelligent systems from first principles, 
 heavily inspired by the want to respect the wishes of Alan Turing with regards to the Child Machine.
