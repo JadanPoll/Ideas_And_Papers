@@ -103,7 +103,11 @@ like what can be unpacked, at what scale, under
 which question and what structure persists without 
 being explocitly queried(implied) if said structure 
 were say blurred(sparse sampling) or quantized.
-.
+. From now on, to refer to these ideas on 
+a low level we will use R(ecursive) matrix whenever 
+we want to be more mathematical and 
+F(ractal) matrix when we want to better talk 
+about the intuitions, core ideas and questions.
  
 ### Our Findings on the ability to hide "savant" programmes
 
