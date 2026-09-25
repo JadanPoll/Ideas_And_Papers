@@ -156,7 +156,8 @@ or " this is the primary focus" while coarsened regions only suggest
 boundary behaviour is sufficient.
 
 Attentinal meaning is the meaning revealed by actively 
-interrogating a region(s) of the world model
+interrogating a region(s) of the world model under a given 
+question or context
 
 ### Our Findings on the ability to hide "savant" programmes
 
