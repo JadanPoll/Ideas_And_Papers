@@ -173,7 +173,11 @@ Why did the brodge collapse
 
 
 Another question one may ask:
-what color is the bird
+what color is the bird?
+Just enough attentional to pick out what one is referring to but 
+unless the colours are actually multiple complex, it is usually 
+very implicit the colour and doesnt change under any 
+sort of contextual interpretations
 ### Our Findings on the ability to hide "savant" programmes
 
 ### Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
