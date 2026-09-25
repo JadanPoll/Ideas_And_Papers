@@ -55,7 +55,12 @@ specific neighbourhoods relate. As you can already tell,
 this very wuickly becomes combinatoric as within this view 
 one can realize and consider variations, local relations 
 (being attentive and relationally inferring on and between various groups and 
-neughbouhoods
+neughbouhoods. A system of subtractionals, differentials/residuals between groups 
+and admissable compositions( covariance indicating various neighbourhoods are related). 
+As I write up on this, good questions relating to the ontological 
+necessity and exploration of "attentional meaning" include
+"what if the neighboorhood was missing", or
+"what is this other neighbourhood was less finely resolved"
 
 
 . A good exploratory analogy be mapping to various
