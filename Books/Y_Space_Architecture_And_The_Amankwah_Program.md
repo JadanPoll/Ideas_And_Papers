@@ -59,6 +59,15 @@ fine but relativelycl critical differences in the
 final answer or what is simply inferred.
 
 Implied meaning - 
+I have to admit I'm a bit confused by my initial 
+writing on this since i seemed to be talking more 
+about what determines what gets the label of implied 
+meaning. After all, how else am i supposed to 
+interpret what was likely intuiting on back then. 
+In fear of losing something rich by shallow reinterpretation I will 
+restate what i said almost word for word and exposit on what i likely 
+actually meant a bit later, here's what I say:
+
 
 This is very analogous to
 peripheral vision. The specifics dont really matter. 
