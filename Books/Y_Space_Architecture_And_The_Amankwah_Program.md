@@ -15,7 +15,22 @@ what the intelligence necessarily needs and instead heavily copies inspiration f
 By arguing from first principles what the minimal architecture necessarily must be, we isolate from the mysticism of intelligence itself by focusing not on how it happens to be implemented but intuitive models
 of what it necessarily must be
 
+
+## Introduction
 ### Fractal Memory Architecutre
+
+I suppose this might be regarded as unscientific 
+of me but I really did wake up one day and decide 
+that an idea i had, simply on the whim of inventing a 
+notation, RDM, must with all certainty actually 
+be a method of representing word models. 
+That world models and understanding not olybcan be 
+but must be represented through fractal matrices. 
+There is a bit of an underlying reason as to why 
+it occured to me this way which i will get to later. 
+Once this idea had asserted itself it spawned off an 
+enduring chain of reasoning and exposition. 
+
 
 ### Our Findings on the ability to hide "savant" programmes
 
