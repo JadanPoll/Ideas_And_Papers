@@ -109,6 +109,39 @@ we want to be more mathematical and
 F(ractal) matrix when we want to better talk 
 about the intuitions, core ideas and questions.
  
+These F-matrices are the representational
+substrate for a world model whose local regions 
+and features can be unpacked to different depths 
+depending on what the intelligence is trying 
+to understand. Attentional and implied meaning 
+supply two richly distintual yet inportant ways of
+traversing, querying and exploring the information 
+in this substrate, one is top-down exploration and 
+one is a self-synthesis of informstion from ground 
+and distributed upwards into distinct "flavors 
+of locality". One is query-conditioned and 
+the other is query-independently structural.
+
+Understanding is seen through compression, 
+refinement, residuals, multiscale invariance, 
+persistent motifs etc. 
+
+I feel it prescient to warn that we might talk 
+of the substrate in such a way as to exaggerate two 
+different but equally valid meaning reference 
+frames of it, there is the question and 
+organization of what is even in the substrate. This is 
+mainly existence-like. In this sense the substrate represents 
+the world model or the effective universe of our 
+discussion. There other framing is as what is sort of loaded 
+in a sort of computational RAM sense(if the RAM happened to have recursive 
+blocks at various memory locations), in this sense we are referring to 
+the substrate in a manner of a tractable computable or currently loaded 
+for computations and queries, dealing with
+actions of traversals, various unpackings to various levels, combinatopns and 
+synthesis, spatial regions of interest.
+
+
 ### Our Findings on the ability to hide "savant" programmes
 
 ### Credit: The incredible ability of LLMs to create models to test our problems that are essential for this work
