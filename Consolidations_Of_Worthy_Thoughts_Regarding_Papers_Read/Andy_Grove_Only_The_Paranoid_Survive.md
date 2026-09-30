@@ -27,6 +27,27 @@ However I am increasingly realizing that writing down the current state of my mi
 the eccentric job of the CEO, the "hero" and leader is to decide how to weight the various components of the ecosystem for effeciency reasons and not to drown in signal however very often in retrospect we do tendnto delete ill-condition weights, zeroing them, compressing out the nuance and lived dynamicall experieence. in state space, the model is approximately the same, but quite ruined in dynamical and lived experience space. let us infer the state space from the dynamical narrative space and never the other way around. if anything the state in the state graph of 10X is more abiut the annomalh detection abilities of the ecosystem and the anomaly processkng and filtering abilities of the CEO.
 
 
+books should be treated not as trophy reads
+ but research projects, linked to many 
+stories and other documentation outside 
+the celebrated book itself. 
+create a project file in your drive 
+for the book or ideas you are reading, 
+must not treat them as singularities. 
+in fact the point of the books and
+ "singularities" sources of apparent lessons and facts
+is to tell yo the direciton one must 
+update their "weights" in. 
+but sometimes i really is only 
+directional, or informing you of the 
+possibilites of weight distributions 
+rather than the frequently assumed final
+ resting place of your
+ "execution and ecosystem" 
+states and weights
+
+
+
 Compressed discussions with gemini:
 How healthy were the company's sensors?
 Did the "white blood cells"(the frontline problem solvers) have the autonomy to fight localized fires without waiting for a top-down memo?
