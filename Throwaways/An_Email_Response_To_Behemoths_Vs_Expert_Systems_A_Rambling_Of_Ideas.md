@@ -32,6 +32,9 @@ One can then surmise that based on these interpretations, the current most egreg
 
 If these ideas happen to be useful for future work of mine, in the interest of mathematical clarity so i dont forget, the way i would mathematically begin to pin down "dynamical resonance" is when an input signal or dynamical state travels unusually far and doesnt quickly die out or vanish, that is, it sort of avalanches or fails or its weights make input signals die out asymetrically in various down stream directions and connections. Like a sort of mean field signal propagation theory for identifying unusually useful or anomalous correlations
 
+
+Would be reading this to properly ground and extend these ideas:
+https://arxiv.org/pdf/1611.01232 - Deep Information Propagation
 If i ever get time for a proper collaborative write-up I explored various ideas in :
 https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
 https://gemini.google.com/app/de5d0b7538a6e342
