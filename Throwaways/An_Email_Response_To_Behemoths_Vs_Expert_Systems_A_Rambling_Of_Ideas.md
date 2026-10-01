@@ -26,6 +26,8 @@ i think for the targetness problem the brain does something particularly ephemer
 
 Variance is particularly important cause not only does it prune bad or co-incidental "hypothesis" but it allows the low-level to more readily enter that synergistic dynamical state even with off-shell inputs or off-shell trajectories and promptings, like making it an attractor more so than just deepning the trough(deepened trough: which is like once the ball falls down that hill it locks mode into that hill more tightly)
 
+
+One can then surmise that based on these interpretations, the current most egregious thing about current intelligence, both human and mechanically is lack of ability for "internal dynamical self-play" to explore if various more distant things might be related, how and for bridges between them. Unless one counts dreaming as performing this exploratory blurring and internal self-play/simulation function.
 If i ever get time for a proper collaborative write-up I explored various ideas in :
 https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
 https://gemini.google.com/app/de5d0b7538a6e342
