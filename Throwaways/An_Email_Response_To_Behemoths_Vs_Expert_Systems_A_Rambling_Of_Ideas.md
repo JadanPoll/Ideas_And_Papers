@@ -38,3 +38,8 @@ https://arxiv.org/pdf/1611.01232 - Deep Information Propagation
 If i ever get time for a proper collaborative write-up I explored various ideas in :
 https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
 https://gemini.google.com/app/de5d0b7538a6e342
+
+
+Unrelated thoughts and questions:
+btw do babies  and humans as we progresss experience double descent? where we learn quite the wrong intrisic thing but later on quickly get the core intrisnic logic correct?
+so coould double descent be intepreted as a progression from course heuristics + memorization -> rule formation but unfortunate over-aggressive application of rule->rule+exceptions
