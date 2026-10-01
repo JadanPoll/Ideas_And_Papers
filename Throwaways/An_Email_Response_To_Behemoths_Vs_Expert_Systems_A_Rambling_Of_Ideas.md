@@ -34,7 +34,7 @@ If these ideas happen to be useful for future work of mine, in the interest of m
 
 
 Would be reading this to properly ground and extend these ideas:
-https://arxiv.org/pdf/1611.01232 - Deep Information Propagation
+https://arxiv.org/pdf/1611.01232 - Deep Information Propagation  
 If i ever get time for a proper collaborative write-up I explored various ideas in :
 https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
 https://gemini.google.com/app/de5d0b7538a6e342
