@@ -25,3 +25,7 @@ yes, its far transfer i am begining to see, at least in simple cases for humans 
 i think for the targetness problem the brain does something particularly ephemeral and interesting which might lead to in the zone effects at relative extremes, upon realizing that certain connectios and transfers(especially for particularly low-level decompositions) pair or really really well when performing task B, it suddenly locks mode into that dynamical state , the more you do it, the more reliably it finds and enters this dynamical state till eventually the link is properly maintained and hence far-transferred, far-transfer(or finding dynamically well-fitted stuff), happens at low-levels for various stuff and over time it integrates as a whole into one bulk, consciously realizable far transfer. that is, the skills "find each other" even without your conscious attention
 
 Variance is particularly important cause not only does it prune bad or co-incidental "hypothesis" but it allows the low-level to more readily entire that synergistic dynamical state even with off-shell inputs or off-shell trajectories and promptings, like making it an attractor more so than just deepning the trough(deepened trough: which is like once the ball falls down that hill it locks mode into that hill more tightly)
+
+If i ever get time for a proper collaborative write-up I explored various ideas in :
+https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
+https://gemini.google.com/app/de5d0b7538a6e342
