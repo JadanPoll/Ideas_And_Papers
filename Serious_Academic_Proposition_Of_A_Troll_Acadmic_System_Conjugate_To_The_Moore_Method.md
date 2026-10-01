@@ -2,7 +2,7 @@
 In response to Moore:
 
 now my goal is to read every piece of literature i can about the Moore method, and design a system that is its conjugate. not a literally inversion oeprator on everything but a direct inversion at least in the axiomatic ideas of his method
-Basically simply study as much of the Moore Method as possible and create its mathematical inverse
+Basically simply study as much of the Moore Method as possible and create its mathematical inverse. My students should as a prerequisite have unmatched curiosity.
 
 
 
