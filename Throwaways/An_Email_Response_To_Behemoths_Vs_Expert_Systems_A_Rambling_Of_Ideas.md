@@ -30,7 +30,7 @@ Variance is particularly important cause not only does it prune bad or co-incide
 
 One can then surmise that based on these interpretations, the current most egregious thing about current intelligence, both human and mechanically is lack of ability for "internal dynamical self-play" to explore if various more distant things might be related, how and form weak bridges between them to deepening and more reliably encountering over time. Unless one counts dreaming as performing this exploratory blurring and internal self-play/simulation function.
 
-If these ideas happen to be useful for future work of mine, in the interest of mathematical clarity so i dont forget, the way i would mathematically begin to pin down "dynamical resonance" is when an input signal or dynamical state travels unusually far and doesnt quickly die out or vanish, that is, it sort of avalanches or fails or its weights make input signals die out asymetrically in various down stream directions and connections.
+If these ideas happen to be useful for future work of mine, in the interest of mathematical clarity so i dont forget, the way i would mathematically begin to pin down "dynamical resonance" is when an input signal or dynamical state travels unusually far and doesnt quickly die out or vanish, that is, it sort of avalanches or fails or its weights make input signals die out asymetrically in various down stream directions and connections. Like a sort of mean field signal propagation theory for identifying unusually useful or anomalous correlations
 
 If i ever get time for a proper collaborative write-up I explored various ideas in :
 https://chatgpt.com/c/6abd9dce-8fb8-83ea-99e2-70097f6f0987
